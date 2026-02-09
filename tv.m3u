@@ -1,0 +1,2728 @@
+#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42025-.png",NHK G
+https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42025-.png",NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_Television_logo_2025.svg/2560px-Nippon_Television_logo_2025.svg.png",NTV
+https://nl.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2025.svg/2560px-Tokyo_Broadcasting_System_logo_2025.svg.png",TBS
+https://nl.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Fuji_Televishon_logo_2025.svg/1049px-Fuji_Television_logo_2025.svg.png",Fuji TV
+https://nl.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_logo_2025.svg/2560px-TV_Asahi_logo_2025.svg.png",TV Asahi
+https://nl.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2025.svg/2560px-TV_Tokyo_logo_2025.svg.png",TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",Tokyo MX1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_2025_%28rainbow%29.svg.png",Tokyo MX2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
+
+
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS_2025.png",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo_2025.svg/2560px-BS4_logo_2025.svg.png",BS NTV
+https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2025/06/oglogo.jpg",BS Asahi
+https://nl.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2025.svg/1920px-BS-TBS_2025.svg.png",BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2025.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2025.svg.png",BS TV Tokyo
+https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2025Symbol.svg/1280px-BSFuji2025Symbol.svg.png",BS Fuji
+https://nl.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-jp_2025.png",BS10
+https://nl.utako.moe/bs10/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo_2025.svg/2560px-BS11_logo_2025.svg.png",BS11
+https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-12-jp_2025.png",BS12
+https://nl.utako.moe/bs12/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2025_logo.svg/1920px-NHK_BSP4K_2025_logo.svg.png",NHK BS4K
+https://nl.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime_2025.png",WOWOW Prime
+https://nl.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema_2025.png",WOWOW Cinema
+https://nl.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live_2025.png",WOWOW Live
+https://nl.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-premium-jp.png",BS 10 Premium
+https://nl.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo_2025.jpg",JSport 1
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo_2025.jpg",JSport 2
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo_2025.jpg",JSport 3
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo_2025.jpg",JSport 4
+https://nl.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp_2025.svg",Green Channel
+https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax_2025.svg/1920px-Animax_2025.svg.png",Animax
+https://nl.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon_2025.png",Nihon Eiga Senmon
+https://nl.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp_2025.svg",Sky A
+https://nl.utako.moe/skya/index.m3u8
+
+
+#EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp_2025.svg",Gaora Sports
+https://nl.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo_2025.svg/2560px-AT-X_logo_2025.svg.png",AT-X
+https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV_2025.jpg",Space Shower TV
+https://nl.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us_2025.svg",MTV
+https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp_2025.png",Kayo Pops
+https://nl.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidsstation_2025.png",Kids Station
+https://nl.utako.moe/kids_station/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disny-channel-jp_2025.svg",Disney Channel
+https://nl.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us_2025.svg",Cartoon Network Japan
+https://nl.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp_2025.png",NTV G+
+https://nl.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp_2025.png",Family Gekijyo
+https://nl.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp_2025.png",Mondo TV
+https://nl.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv_2025.png",Music On TV
+https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="m_net" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp_2025.png",Mnet
+https://nl.utako.moe/mnet/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp_2025.png",TBS Channel 1
+https://nl.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp_2025.png",TBS Channel 2
+https://nl.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp_2025.png",TV Asahi Channel 1
+https://nl.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp_2025.png",TV Asahi Channel 2
+https://nl.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one_2025.png",Fuji TV One
+https://nl.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two_2025.png",Fuji TV Two
+https://nl.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next_2025.png",Fuji TV Next
+https://nl.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp_2025.png",Neco Channel
+https://nl.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp_2025.png",Dlife
+https://nl.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel_2025.png",Toei Channel
+https://nl.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp_2025.png",Fighting TV Samurai
+https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp_2025.png",Entermei Tele
+https://nl.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp_2025.png",Sport Live Plus
+https://nl.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp_2025.png",Home Drama Channel
+https://nl.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga_2025.png",Channel Ginga
+https://nl.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel_2025.png",Tabi Channel
+https://nl.utako.moe/tabi/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp_2025.png",Pigoo (NSFW)
+https://nl.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp_2025.png",V Paradise (NSFW)
+https://nl.utako.moe/v_paradise/index.m3u8
+
+
+
+
+
+#########################################
+
+
+#EXTINF:-1 group-title="台灣",中視
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="台灣",中視新聞
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="台灣",中視經典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 group-title="台灣",中視菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 group-title="台灣",台視
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="台灣",台視新聞
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="台灣",台視綜合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 group-title="台灣",台視財經
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 group-title="台灣",華視
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="台灣",華視新聞資訊
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="台灣",華視教育體育文化
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 group-title="台灣",民視
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 group-title="台灣",民視新聞台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="台灣",民視臺灣台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 group-title="台灣",民視第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="台灣",公視
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 group-title="台灣",公視台語台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 group-title="台灣",小公視
+http://74.91.26.218:82/live/ptsse.m3u8
+
+
+
+
+
+#########################################
+
+
+
+
+
+
+
+#########################################
+
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg1.168.us.kg/mytvsuper.com.xml"
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="MYTV",翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://php.946985.filegear-sg.me/mytv265.php?id=J
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="MYTV",翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://php.946985.filegear-sg.me/mytv265.php?id=JUHD
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="MYTV",TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://php.946985.filegear-sg.me/mytv265.php?id=B
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="MYTV",無綫新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://php.946985.filegear-sg.me/mytv265.php?id=C
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="MYTV",明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://php.946985.filegear-sg.me/mytv265.php?id=P
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER奖门人" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER獎門人
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
+https://php.946985.filegear-sg.me/mytv265.php?id=SVAR
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPEREYT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
+https://php.946985.filegear-sg.me/mytv265.php?id=SEYT
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER识食" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER識食
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
+https://php.946985.filegear-sg.me/mytv265.php?id=SFOO
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER识叹" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER識嘆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
+https://php.946985.filegear-sg.me/mytv265.php?id=STRA
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="MYTV",SUPER Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
+https://php.946985.filegear-sg.me/mytv265.php?id=SMUS
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER金曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER金曲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+https://php.946985.filegear-sg.me/mytv265.php?id=SGOL
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER煲剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER煲劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+https://php.946985.filegear-sg.me/mytv265.php?id=SSIT
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER劇場
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
+https://php.946985.filegear-sg.me/mytv265.php?id=STVM
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="MYTV",SUPER話當年
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
+https://php.946985.filegear-sg.me/mytv265.php?id=SDOC
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南澜湄国际卫视.png" group-title="MYTV",雲南瀾湄國際衛視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
+https://php.946985.filegear-sg.me/mytv265.php?id=YNTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽.png" group-title="MYTV",安徽廣播電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
+https://php.946985.filegear-sg.me/mytv265.php?id=AHTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MYTV",北京電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
+https://php.946985.filegear-sg.me/mytv265.php?id=BJTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西.png" group-title="MYTV",廣西電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
+https://php.946985.filegear-sg.me/mytv265.php?id=GXTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="MYTV",福建海峽衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
+https://php.946985.filegear-sg.me/mytv265.php?id=FJTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MYTV",湖南電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
+https://php.946985.filegear-sg.me/mytv265.php?id=HNTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏.png" group-title="MYTV",江蘇電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
+https://php.946985.filegear-sg.me/mytv265.php?id=JSTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="MYTV",廣東廣播電視台大灣區衛視頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
+https://php.946985.filegear-sg.me/mytv265.php?id=GBTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="MYTV",浙江電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
+https://php.946985.filegear-sg.me/mytv265.php?id=ZJTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="MYTV",深圳衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
+https://php.946985.filegear-sg.me/mytv265.php?id=SZTV
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERFREE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",myTV SUPER FREE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
+https://php.946985.filegear-sg.me/mytv265.php?id=CWIN
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="MYTVSUPER18台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/icable11.png" group-title="MYTV",myTV SUPER 18台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
+https://php.946985.filegear-sg.me/mytv265.php?id=C18
+#EXTINF:-1 tvg-id="myTV-28-AI" tvg-logo="https://www.mytvsuper.com/tc/scoopplus/thumbor/rzBSNjFIaLA8XDdRtwfpF_gXiHo=/200x0/filters:quality(80)/public/author/cover/202412/776c7bc4-e8ff-4585-a36d-3459bec286b8.png" group-title="MYTV",28 AI 智慧賽馬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
+https://php.946985.filegear-sg.me/mytv265.php?id=C28
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金翡翠.png" group-title="MYTV",黃金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+https://php.946985.filegear-sg.me/mytv265.php?id=TVG
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="MYTV",千禧經典台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
+https://php.946985.filegear-sg.me/mytv265.php?id=CTVC
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="华语剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华语剧.png" group-title="MYTV",華語劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
+https://php.946985.filegear-sg.me/mytv265.php?id=CDR3
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粤语片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/粤语片.png" group-title="MYTV",粵語片台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
+https://php.946985.filegear-sg.me/mytv265.php?id=CCLM
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亚洲剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲剧.png" group-title="MYTV",亞洲劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
+https://php.946985.filegear-sg.me/mytv265.php?id=CTVS
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黄金华剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金华剧.png" group-title="MYTV",黃金華劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
+https://php.946985.filegear-sg.me/mytv265.php?id=TVO
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="MYTV",娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+https://php.946985.filegear-sg.me/mytv265.php?id=CTVE
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="戏曲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/戏曲.png" group-title="MYTV",戲曲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
+https://php.946985.filegear-sg.me/mytv265.php?id=CCOC
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPERKIDSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERKIDSCHANNEL.png" group-title="MYTV",SUPER Kids Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
+https://php.946985.filegear-sg.me/mytv265.php?id=KID
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZOOMOO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ZOOMOO.png" group-title="MYTV",ZooMoo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+https://php.946985.filegear-sg.me/mytv265.php?id=ZOO
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="MYTV",Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
+https://php.946985.filegear-sg.me/mytv265.php?id=CNIKO
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="NICKJR." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="MYTV",Nick Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
+https://php.946985.filegear-sg.me/mytv265.php?id=CNIJR
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="MYTV",美亞電影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+https://php.946985.filegear-sg.me/mytv265.php?id=CMAM
+#EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="MYTV",Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
+https://php.946985.filegear-sg.me/mytv265.php?id=CTHR
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映经典频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MYTV",天映經典頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+https://php.946985.filegear-sg.me/mytv265.php?id=CCCM
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中国电影频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中国电影.png" group-title="MYTV",中國電影頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
+https://php.946985.filegear-sg.me/mytv265.php?id=CMC
+#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="MYTV",ROCK Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+https://php.946985.filegear-sg.me/mytv265.php?id=CRTX
+#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCKEXTREME" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKEXTREME.png" group-title="MYTV",ROCK Extreme
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
+https://php.946985.filegear-sg.me/mytv265.php?id=RKEX
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/KIX.png" group-title="MYTV",KIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
+https://php.946985.filegear-sg.me/mytv265.php?id=CKIX
+#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="LOVENATUREHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="MYTV",Love Nature HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
+https://php.946985.filegear-sg.me/mytv265.php?id=LNH
+#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="LOVENATURE4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE4K.png" group-title="MYTV",Love Nature 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
+https://php.946985.filegear-sg.me/mytv265.php?id=LN4
+#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="GLOBALTREKKER" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GLOBALTREKKER.png" group-title="MYTV",Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+https://php.946985.filegear-sg.me/mytv265.php?id=SMS
+#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK综艺娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCK综艺娱乐.png" group-title="MYTV",ROCK綜藝娛樂
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+https://php.946985.filegear-sg.me/mytv265.php?id=CRTE
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="MYTV",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+https://php.946985.filegear-sg.me/mytv265.php?id=CAXN
+#EXTINF:-1 tvg-id="Animax-HK" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="MYTV",Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
+https://php.946985.filegear-sg.me/mytv265.php?id=CANI
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="MYTV",tvN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
+https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="无线卫星亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星亚洲.png" group-title="MYTV",無線衛星亞洲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
+https://php.946985.filegear-sg.me/mytv265.php?id=CTS1
+#EXTINF:-1 tvg-id="創世電視" tvg-name="创世电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/创世电视.png" group-title="MYTV",創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
+https://php.946985.filegear-sg.me/mytv265.php?id=CRE
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FASHIONBOX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONBOX.png" group-title="MYTV",FashionBox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
+https://php.946985.filegear-sg.me/mytv265.php?id=FBX
+#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="MEZZOLIVEHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MEZZOLIVEHD.png" group-title="MYTV",Mezzo Live HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
+https://php.946985.filegear-sg.me/mytv265.php?id=CMEZ
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="东方卫视国际频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视国际.png" group-title="MYTV",東方衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
+https://php.946985.filegear-sg.me/mytv265.php?id=DTV
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="MYTV",鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://php.946985.filegear-sg.me/mytv265.php?id=PCC
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="MYTV",鳳凰衛視資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://php.946985.filegear-sg.me/mytv265.php?id=PIN
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="凤凰卫视香港台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="MYTV",鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://php.946985.filegear-sg.me/mytv265.php?id=PHK
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="MYTV",PopC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+https://php.946985.filegear-sg.me/mytv265.php?id=POPC
+#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="MYTV",中央電視台綜合頻道 (港澳版)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://php.946985.filegear-sg.me/mytv265.php?id=CC1
+#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="CGTN(中国环球电视网)记录频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="MYTV",CGTN (中國環球電視網)記錄頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
+https://php.946985.filegear-sg.me/mytv265.php?id=CGD
+#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN(中国环球电视网)英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="MYTV",CGTN (中國環球電視網)英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
+https://php.946985.filegear-sg.me/mytv265.php?id=CGE
+#EXTINF:-1 tvg-id="神州新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/神州新闻.png" group-title="MYTV",神州新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
+https://php.946985.filegear-sg.me/mytv265.php?id=CMN1
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="无线卫星新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线卫星新闻.png" group-title="MYTV",無線衛星新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
+https://php.946985.filegear-sg.me/mytv265.php?id=CTSN
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亚洲新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲新闻.png" group-title="MYTV",亞洲新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
+https://php.946985.filegear-sg.me/mytv265.php?id=CCNA
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半岛电视台英语频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛电视台英语.png" group-title="MYTV",半島電視台英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
+https://php.946985.filegear-sg.me/mytv265.php?id=CJAZ
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="MYTV",France 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
+https://php.946985.filegear-sg.me/mytv265.php?id=CF24
+#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="MYTV",DW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
+https://php.946985.filegear-sg.me/mytv265.php?id=CDW1
+#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHKWORLDJAPAN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="MYTV",NHK World-Japan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
+https://php.946985.filegear-sg.me/mytv265.php?id=CNHK
+#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="ARIRANGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANGTV.png" group-title="MYTV",Arirang TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
+https://php.946985.filegear-sg.me/mytv265.php?id=CARI
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="MYTV",SUPER Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
+https://php.946985.filegear-sg.me/mytv265.php?id=SSPT
+#EXTINF:-1 tvg-id="全運800" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",全運800台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ca7903e25450d85cb32b3057948522:d5db5c03608f5f6c8a382c6abcb829e4
+https://php.946985.filegear-sg.me/mytv265.php?id=OL00
+#EXTINF:-1 tvg-id="全運801台" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",全運801台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c79f7330982b6e508de3df47b88fbdc:db063550682430e8ca5857a85ccbc297
+https://php.946985.filegear-sg.me/mytv265.php?id=OL01
+#EXTINF:-1 tvg-id="全運802台" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",全運802台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dddcd998a3107f7b350a7536c7fd30b1:15b343513bda8a5816b45295690c3792
+https://php.946985.filegear-sg.me/mytv265.php?id=OL02
+#EXTINF:-1 tvg-id="全運803台" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",全運803台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8d3124914a5cf9c913eccff19d53510:529601f9fca6d76bb429ef2d2bca3622
+https://php.946985.filegear-sg.me/mytv265.php?id=OL03
+#EXTINF:-1 tvg-id="全運804台" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",全運804台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89db5bfd8f088f9e100ab81b2c2c0cda:e3465fb5fa8daa0f575f2258a7a30220
+https://php.946985.filegear-sg.me/mytv265.php?id=OL04
+#EXTINF:-1 tvg-id="全運805台" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",全運805台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97a0b07f2c0739e2843b7a62e77dc452:165f65fd3be0c5f0f62b9647c13af521
+https://php.946985.filegear-sg.me/mytv265.php?id=OL05
+#EXTINF:-1 tvg-id="全運806台" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",全運806台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e72be084c3c0b3ee2a6856220c060d94:42851811d34c03c744c265c270bd89e6
+https://php.946985.filegear-sg.me/mytv265.php?id=OL06
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="MYTVSUPER直播足球3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",myTV SUPER直播足球3台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
+https://php.946985.filegear-sg.me/mytv265.php?id=EVT3
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",myTV SUPER直播足球4台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
+https://php.946985.filegear-sg.me/mytv265.php?id=EVT4
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",myTV SUPER直播足球5台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
+https://php.946985.filegear-sg.me/mytv265.php?id=EVT5
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="TVS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYTVSUPER.png" group-title="MYTV",myTV SUPER直播足球6台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
+https://php.946985.filegear-sg.me/mytv265.php?id=EVT6
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="MYTV",互動窗 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
+https://php.946985.filegear-sg.me/mytv265.php?id=C3
+#EXTINF:-1 tvg-id="MytvSuper" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB14.png" group-title="MYTV",互動窗 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
+https://php.946985.filegear-sg.me/mytv265.php?id=C2
+#EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.112114.xyz/logo/NOW70S.png" group-title="MYTV",NOW 70s
+https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
+#EXTINF:-1 tvg-id="NOW 80s" tvg-name="NOW 80s" tvg-logo="https://epg.112114.xyz/logo/NOW80S.png" group-title="MYTV",NOW 80s
+https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
+#EXTINF:-1 vg-id="NOW ROCK" tvg-name="NOW ROCK" tvg-logo="https://epg.112114.xyz/logo/NOWROCK.png" group-title="MYTV",NOW ROCK
+https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
+#EXTINF:-1 tvg-id="NOW 90s00s" tvg-name="NOW 90s00s" tvg-logo="https://epg.112114.xyz/logo/NOW90S00S.png" group-title="MYTV",NOW 90s00s
+https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
+#EXTINF:-1 tvg-id="Concerto" tvg-name="Concerto" tvg-logo="https://epg.112114.xyz/logo/CONCERTO.png" group-title="MYTV",Concerto
+https://php.946985.filegear-sg.me/mytv265.php?id=CONC
+#EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACEURBAN" tvg-logo="https://epg.112114.xyz/logo/TRACEURBAN.png" group-title="MYTV",TRACE Urban
+https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
+#EXTINF:-1 tvg-id="NewsWorld" tvg-name="NewsWorld" tvg-logo="https://epg.112114.xyz/logo/NEWSWORLD.png" group-title="MYTV",NewsWorld
+https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
+#EXTINF:-1 group-title="MYTV",鳳凰電影
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 group-title="MYTV",星空電影
+http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+#EXTINF:-1 group-title="MYTV",星空音樂
+http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-id="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" tvg-name="BBC Earth",BBCEarth
+https://hls.iill.top/api/BBC-Earth/playlist.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-id="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" tvg-name="BBC Lifestyle",BBCLifestyle
+https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-id="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" tvg-name="Discovery HD",Discovery
+https://hls.iill.top/api/Discovery/playlist.m3u8
+#EXTINF:-1 group-title="MYTV" tvg-id="天映頻道" tvg-logo="https://epg.iill.top/logo/天映频道.png" tvg-name="天映頻道",天映頻道
+https://tv.iill.top/x/typd
+#EXTINF:-1 group-title="MYTV" tvg-id="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" tvg-name="動物星球",動物星球
+https://tv.iill.top/x/dwxq
+#EXTINF:-1 group-title="MYTV" tvg-id="緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" tvg-name="",緯來日本
+https://tv.iill.top/x/wlrb
+#EXTINF:-1 group-title="MYTV" tvg-id="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" tvg-name="緯來體育台",緯來體育
+https://tv.iill.top/x/wlty
+#EXTINF:-1 group-title="MYTV" tvg-id="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" tvg-name="緯來電影台",緯來電影
+https://tv.iill.top/x/wldy
+#EXTINF:-1 group-title="MYTV" tvg-id="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" tvg-name="東森電影台",東森電影
+https://tv.iill.top/x/dsdy
+#EXTINF:-1 group-title="MYTV" tvg-id="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" tvg-name="東森洋片台",東森洋片
+https://tv.iill.top/x/dsyp
+#EXTINF:-1 group-title="MYTV" tvg-id="龍翔時代" tvg-logo="https://epg.iill.top/logo/龙祥时代.png" tvg-name="龍翔時代",龍翔時代
+https://tv.iill.top/x/lxsd
+
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg1.168.us.kg/mytvsuper.com.xml"
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="MYTV", 翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://www.judy.xx.kg/websuper265.php?id=J
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台 4K" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="MYTV", 翡翠台 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+https://www.judy.xx.kg/websuper265.php?id=JUHD
+
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="MYTV", TVB Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
+https://www.judy.xx.kg/websuper265.php?id=B
+
+#EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="" group-title="MYTV", ROCK Extreme
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
+https://www.judy.xx.kg/websuper265.php?id=RKEX
+
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="MYTV", 無綫新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
+https://www.judy.xx.kg/websuper265.php?id=C
+
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="MYTV", 明珠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
+https://www.judy.xx.kg/websuper265.php?id=P
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER獎門人
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
+https://www.judy.xx.kg/websuper265.php?id=SVAR
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER EYT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
+https://www.judy.xx.kg/websuper265.php?id=SEYT
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER識食" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER識食
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
+https://www.judy.xx.kg/websuper265.php?id=SFOO
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER識嘆" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER識嘆
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
+https://www.judy.xx.kg/websuper265.php?id=STRA
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER Music" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER Music
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
+https://www.judy.xx.kg/websuper265.php?id=SMUS
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER金曲" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER金曲
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
+https://www.judy.xx.kg/websuper265.php?id=SGOL
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER煲劇" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER煲劇
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
+https://www.judy.xx.kg/websuper265.php?id=SSIT
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER劇場" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER劇場
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
+https://www.judy.xx.kg/websuper265.php?id=STVM
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER話當年
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
+https://www.judy.xx.kg/websuper265.php?id=SDOC
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER Sports" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", SUPER Sports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
+https://www.judy.xx.kg/websuper265.php?id=SSPT
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 雲南瀾湄國際衛視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
+https://www.judy.xx.kg/websuper265.php?id=YNTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 安徽廣播電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
+https://www.judy.xx.kg/websuper265.php?id=AHTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="北京電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 北京電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
+https://www.judy.xx.kg/websuper265.php?id=BJTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="廣西電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 廣西電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
+https://www.judy.xx.kg/websuper265.php?id=GXTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 福建海峽衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
+https://www.judy.xx.kg/websuper265.php?id=FJTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="湖南電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 湖南電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
+https://www.judy.xx.kg/websuper265.php?id=HNTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="江蘇電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 江蘇電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
+https://www.judy.xx.kg/websuper265.php?id=JSTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 廣東廣播電視台大灣區衛視頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
+https://www.judy.xx.kg/websuper265.php?id=GBTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="浙江電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 浙江電視台國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
+https://www.judy.xx.kg/websuper265.php?id=ZJTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 深圳衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
+https://www.judy.xx.kg/websuper265.php?id=SZTV
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", myTV SUPER FREE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
+https://www.judy.xx.kg/websuper265.php?id=CWIN
+
+#EXTINF:-1 tvg-id="myTV-SUPER-18" tvg-name="myTV SUPER 18台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-18.png" group-title="MYTV", myTV SUPER 18台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
+https://www.judy.xx.kg/websuper265.php?id=C18
+
+#EXTINF:-1 tvg-id="myTV-28-AI" tvg-name="28AI智慧賽馬" tvg-logo="https://assets.livednow.com/logo/myTV-28-AI.png" group-title="MYTV", 28 AI 智慧賽馬
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b778a3241e5fa3bb97d1cb9b57f9e09:3b1f318259fcf0dccd04742cd679fd25
+https://www.judy.xx.kg/websuper265.php?id=C28
+
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="MYTV", 黃金翡翠台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+https://www.judy.xx.kg/websuper265.php?id=TVG
+
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="MYTV", 千禧經典台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
+https://www.judy.xx.kg/websuper265.php?id=CTVC
+
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="MYTV", 華語劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
+https://www.judy.xx.kg/websuper265.php?id=CDR3
+
+#EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://assets.livednow.com/logo/粵語片台.png" group-title="MYTV", 粵語片台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
+https://www.judy.xx.kg/websuper265.php?id=CCLM
+
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="MYTV", 亞洲劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
+https://www.judy.xx.kg/websuper265.php?id=CTVS
+
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="MYTV", 黃金華劇台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
+https://www.judy.xx.kg/websuper265.php?id=TVO
+
+#EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="MYTV", 娛樂新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
+https://www.judy.xx.kg/websuper265.php?id=CTVE
+
+#EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://assets.livednow.com/logo/戲曲台.png" group-title="MYTV", 戲曲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
+https://www.judy.xx.kg/websuper265.php?id=CCOC
+
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="MYTV", SUPER Kids Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
+https://www.judy.xx.kg/websuper265.php?id=KID
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://assets.livednow.com/logo/ZooMoo.png" group-title="MYTV", ZooMoo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+https://www.judy.xx.kg/websuper265.php?id=ZOO
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="MYTV", Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
+https://www.judy.xx.kg/websuper265.php?id=CNIKO
+
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr." tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="MYTV", Nick Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
+https://www.judy.xx.kg/websuper265.php?id=CNIJR
+
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="MYTV", 美亞電影台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
+https://www.judy.xx.kg/websuper265.php?id=CMAM
+
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="MYTV", Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
+https://www.judy.xx.kg/websuper265.php?id=CTHR
+
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="MYTV", 天映經典頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
+https://www.judy.xx.kg/websuper265.php?id=CCCM
+
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="MYTV", 中國電影頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
+https://www.judy.xx.kg/websuper265.php?id=CMC
+
+#EXTINF:-1 tvg-id="Rock-Action-HK" tvg-name="ROCK Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action-HK.png" group-title="MYTV", ROCK Action
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
+https://www.judy.xx.kg/websuper265.php?id=CRTX
+
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="MYTV", KIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
+https://www.judy.xx.kg/websuper265.php?id=CKIX
+
+#EXTINF:-1 tvg-id="Love-Nature-HK" tvg-name="Love Nature HD" tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png" group-title="MYTV", Love Nature HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
+https://www.judy.xx.kg/websuper265.php?id=LNH
+
+#EXTINF:-1 tvg-id="Love-Nature-4K-HK" tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png" group-title="MYTV", Love Nature 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
+https://www.judy.xx.kg/websuper265.php?id=LN4
+
+#EXTINF:-1 tvg-id="Global-Trekker-HK" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker-HK.png" group-title="MYTV", Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
+https://www.judy.xx.kg/websuper265.php?id=SMS
+
+#EXTINF:-1 tvg-id="Rock-Entertainment-HK" tvg-name="ROCK綜藝娛樂" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment-HK.png" group-title="MYTV", ROCK綜藝娛樂
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
+https://www.judy.xx.kg/websuper265.php?id=CRTE
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://assets.livednow.com/logo/AXN.png" group-title="MYTV", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
+https://www.judy.xx.kg/websuper265.php?id=CAXN
+
+#EXTINF:-1 tvg-id="Animax-HK" tvg-name="Animax" tvg-logo="https://assets.livednow.com/logo/Animax-HK.png" group-title="MYTV", Animax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
+https://www.judy.xx.kg/websuper265.php?id=CANI
+
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="MYTV", tvN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
+https://www.judy.xx.kg/websuper265.php?id=CJTV
+
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="MYTV", 無線衛星亞洲台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
+https://www.judy.xx.kg/websuper265.php?id=CTS1
+
+#EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://assets.livednow.com/logo/創世電視.png" group-title="MYTV", 創世電視
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
+https://www.judy.xx.kg/websuper265.php?id=CRE
+
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="MYTV", FashionBox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
+https://www.judy.xx.kg/websuper265.php?id=FBX
+
+#EXTINF:-1 tvg-id="Mezzo-Live-HK" tvg-name="Mezzo Live HD" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live-HK.png" group-title="MYTV", Mezzo Live HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
+https://www.judy.xx.kg/websuper265.php?id=CMEZ
+
+#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="MYTV", 東方衛視國際頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
+https://www.judy.xx.kg/websuper265.php?id=DTV
+
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="MYTV", 鳳凰衛視中文台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
+https://www.judy.xx.kg/websuper265.php?id=PCC
+
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="MYTV", 鳳凰衛視資訊台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
+https://www.judy.xx.kg/websuper265.php?id=PIN
+
+#EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="MYTV", 鳳凰衛視香港台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
+https://www.judy.xx.kg/websuper265.php?id=PHK
+
+#EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://assets.livednow.com/logo/PopC.png" group-title="MYTV", PopC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
+https://www.judy.xx.kg/websuper265.php?id=POPC
+
+#EXTINF:-1 tvg-id="中央電視台綜合頻道-港澳版" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="MYTV", 中央電視台綜合頻道 (港澳版)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
+https://www.judy.xx.kg/websuper265.php?id=CC1
+
+#EXTINF:-1 tvg-id="中國環球電視網-記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png" group-title="MYTV", CGTN (中國環球電視網)記錄頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
+https://www.judy.xx.kg/websuper265.php?id=CGD
+
+#EXTINF:-1 tvg-id="中國環球電視網-英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png" group-title="MYTV", CGTN (中國環球電視網)英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
+https://www.judy.xx.kg/websuper265.php?id=CGE
+
+#EXTINF:-1 tvg-id="神州新聞台" tvg-name="神州新聞台" tvg-logo="https://assets.livednow.com/logo/神州新聞台.png" group-title="MYTV", 神州新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee6ed08925f4716c8d0943e7bdb3e5f:6f3c1e31b30ccac36d466f41489ceb27
+https://www.judy.xx.kg/websuper265.php?id=CMN1
+
+#EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="MYTV", 無線衛星新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
+https://www.judy.xx.kg/websuper265.php?id=CTSN
+
+#EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" group-title="MYTV", 亞洲新聞台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
+https://www.judy.xx.kg/websuper265.php?id=CCNA
+
+#EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://assets.livednow.com/logo/半島電視台英語頻道.png" group-title="MYTV", 半島電視台英語頻道
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
+https://www.judy.xx.kg/websuper265.php?id=CJAZ
+
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="MYTV", France 24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
+https://www.judy.xx.kg/websuper265.php?id=CF24
+
+#EXTINF:-1 tvg-id="DW-HK" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="MYTV", DW
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
+https://www.judy.xx.kg/websuper265.php?id=CDW1
+
+#EXTINF:-1 tvg-id="NHK-HK" tvg-name="NHK World-Japan" tvg-logo="https://assets.livednow.com/logo/NHK-HK.png" group-title="MYTV", NHK World-Japan
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
+https://www.judy.xx.kg/websuper265.php?id=CNHK
+
+#EXTINF:-1 tvg-id="Arirang-HK" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-HK.png" group-title="MYTV", Arirang TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
+https://www.judy.xx.kg/websuper265.php?id=CARI
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png" group-title="MYTV", myTV SUPER直播足球3台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
+https://www.judy.xx.kg/websuper265.php?id=EVT3
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png" group-title="MYTV", myTV SUPER直播足球4台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
+https://www.judy.xx.kg/websuper265.php?id=EVT4
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png" group-title="MYTV", myTV SUPER直播足球5台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
+https://www.judy.xx.kg/websuper265.php?id=EVT5
+
+#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png" group-title="MYTV", myTV SUPER直播足球6台
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
+https://www.judy.xx.kg/websuper265.php?id=EVT6
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 互動窗 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
+https://www.judy.xx.kg/websuper265.php?id=C3
+
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV", 互動窗 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
+https://www.judy.xx.kg/websuper265.php?id=C2
+
+
+
+#########################################
+
+
+
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",無線翡翠
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",NOW直播台
+http://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",NOW財經台
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",NOW新聞台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",港台電視31
+http://hls.168.us.kg/u/31/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY國際財經台
+http://hls.168.us.kg/u/76/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY TV
+http://hls.168.us.kg/u/77/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY資訊台
+http://hls.168.us.kg/u/78/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB Plus
+http://hls.168.us.kg/u/82/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",無綫新聞台
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://hls.168.us.kg/u/84/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",ViuTVsix
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 group-title="港澳頻道",ViuTV
+http://hls.168.us.kg/u/99/master.m3u8
+
+
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳頻道",翡翠台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳頻道",翡翠台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=jade_xue
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/無線新聞.png" group-title="港澳頻道",無線新聞台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="港澳頻道",明珠台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=pearl_twn
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="港澳頻道",TVB PLUS_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳頻道",ViuTV_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
+#EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="港澳頻道",ViuTVSix_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳頻道",HOY資訊台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="港澳頻道",TVB星河_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Xinhe
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳頻道",華麗翡翠台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Tvbjade
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧經典.png" group-title="港澳頻道",千禧經典台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娛樂新聞.png" group-title="港澳頻道",TVB娛樂新聞台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="港澳頻道",天映頻道_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Celestial
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映經典.png" group-title="港澳頻道",天映經典_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Celestial2
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/愛奇藝.png" group-title="港澳頻道",愛奇藝_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
+#EXTINF:-1 group-title="港澳頻道",八度空間_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=TV8
+#EXTINF:-1 group-title="港澳頻道",Astro歡喜台_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Huahee
+#EXTINF:-1 tvg-name="AOD" group-title="港澳頻道",Astro AOD_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Aodhd
+#EXTINF:-1 tvg-name="AEC" group-title="港澳頻道",Astro AEC_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=AEC
+#EXTINF:-1 tvg-name="QJ" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/qjs.png" group-title="港澳頻道",Astro QJ_SMT
+http://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
+     
+#EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
+#EXTINF:-1 group-title="港澳頻道",Astro AEC(多音軌字幕)
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="港澳頻道",千禧經典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="港澳頻道",TVB星河(多音軌字幕)
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="港澳頻道",翡翠台字幕
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠台(多音軌字幕)
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠台(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 group-title="港澳頻道",Astro AOD(多音軌字幕)
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="港澳頻道",Astro QJ(多音軌字幕)
+https://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 group-title="港澳頻道",愛奇藝
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="港澳頻道",明珠台字幕
+http://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 group-title="港澳頻道",翡翠台4K(多音軌字幕)
+https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 group-title="港澳頻道",TVB PLUS(多音軌字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="港澳頻道",翡翠台(多音軌字幕)
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="港澳頻道",TVB PLUS(多音軌字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="港澳頻道",明珠台(多音軌字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠台(多音軌字幕)
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠台(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 group-title="港澳頻道",Astro AOD(多音軌字幕)
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="港澳頻道",Astro AEC(多音軌字幕)
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="港澳頻道",Astro QJ(多音軌字幕)
+https://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 group-title="港澳頻道",TVB星河(多音軌字幕)
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="港澳頻道",愛奇藝
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="港澳頻道",千禧經典台
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="港澳頻道",天映頻道1
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 group-title="港澳頻道",天映經典1
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 group-title="港澳頻道",TVB星河國語
+http://cdn10.163189.xyz/163189/xinghe
+#EXTINF:-1 group-title="港澳頻道",天映頻道
+http://cdn10.163189.xyz/163189/typd
+#EXTINF:-1 group-title="港澳頻道",天映經典
+http://cdn10.163189.xyz/163189/ccm
+#EXTINF:-1 group-title="港澳頻道",翡翠台4K(多音軌字幕)
+https://o11.163189.xyz/stream/tvb/fct4k/
+
+
+#EXTINF:-1 group-title="港澳頻道",天映馬來西亞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="港澳頻道",天映經典
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港澳頻道",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="港澳頻道",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 group-title="港澳頻道",愛奇藝
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 group-title="港澳頻道",Astro QJ
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 group-title="港澳頻道",Astro歡喜台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 group-title="港澳頻道",八度空間
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 group-title="港澳頻道",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 group-title="港澳頻道",TVB星河
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 group-title="港澳頻道",千禧經典台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港澳頻道",娛樂新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 group-title="港澳頻道",VIUTV
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳頻道",ViuTVSix
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 group-title="港澳頻道",鳳凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰資訊
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰香港
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳頻道",美亞電影
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="港澳頻道",天映馬來西亞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="港澳頻道",天映經典
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港澳頻道",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="港澳頻道",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 group-title="港澳頻道",愛奇藝
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 group-title="港澳頻道",Astro QJ
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 group-title="港澳頻道",Astro歡喜台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 group-title="港澳頻道",八度空間
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 group-title="港澳頻道",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 group-title="港澳頻道",TVB星河
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 group-title="港澳頻道",千禧經典台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港澳頻道",娛樂新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 group-title="港澳頻道",VIUTV
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳頻道",ViuTVSix
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 group-title="港澳頻道",鳳凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰資訊
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰香港
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳頻道",美亞電影
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+
+
+#EXTINF:-1 group-title="港澳頻道",翡翠台4K
+http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",鳳凰中文
+http://cdn.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",RTHK33
+http://cdn.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB PLUS
+http://cdn.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY77
+http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",HOY77
+http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",VIUTV
+http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",NOW新聞
+http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",RTHK31
+http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",RTHK32
+http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",澳視澳門
+http://cdn.veryfast.filegear-sg.me/live/asam/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",澳視衛星
+http://cdn.veryfast.filegear-sg.me/live/as/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",重溫經典
+http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",鳳凰資訊
+http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",鳳凰香港
+http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB1
+http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVBJ1
+http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠劇集台
+http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://cdn.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",廣東珠江
+http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",廣東體育
+http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",八度空間
+http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CH5
+http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CH8
+http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CHU
+http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",龍華電影
+http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",龍華經典
+http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",龍華卡通
+http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",龍華偶像
+http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",龍華日韓
+http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",龍華戲劇
+http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",龍華洋片
+http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 group-title="港澳頻道",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 group-title="港澳頻道",TVB星河
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 group-title="港澳頻道",千禧經典台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港澳頻道",娛樂新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 group-title="港澳頻道",VIUTV
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳頻道",ViuTVSix
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 group-title="港澳頻道",鳳凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰資訊
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰香港
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳頻道",美亞電影
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="港澳頻道",天映馬來西亞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="港澳頻道",天映經典
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港澳頻道",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="港澳頻道",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 group-title="港澳頻道",愛奇藝
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 group-title="港澳頻道",Astro QJ
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 group-title="港澳頻道",Astro歡喜台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 group-title="港澳頻道",八度空間
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠
+http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB亞洲武俠
+http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",娛樂新聞台
+http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB星河
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台4K
+http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
+#EXTINF:-1 group-title="港澳頻道",歡笑劇場4K
+http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CCTV2
+http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CCTV4
+http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CCTV9
+http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",華語影院
+http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",星光影院
+http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
+
+
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 group-title="港澳頻道",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 group-title="港澳頻道",TVB星河
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 group-title="港澳頻道",千禧經典台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 group-title="港澳頻道",娛樂新聞台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 group-title="港澳頻道",VIUTV
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 group-title="港澳頻道",ViuTVSix
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 group-title="港澳頻道",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 group-title="港澳頻道",鳳凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰資訊
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港澳頻道",鳳凰香港
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳頻道",美亞電影
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="港澳頻道",天映馬來西亞
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+#EXTINF:-1 group-title="港澳頻道",天映經典
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 group-title="港澳頻道",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 group-title="港澳頻道",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 group-title="港澳頻道",愛奇藝
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 group-title="港澳頻道",Astro QJ
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+#EXTINF:-1 group-title="港澳頻道",Astro歡喜台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+#EXTINF:-1 group-title="港澳頻道",八度空間
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
+#EXTINF:-1 group-title="港澳頻道",華麗翡翠
+http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB亞洲武俠
+http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",娛樂新聞台
+http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",TVB星河
+http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+#EXTINF:-1 group-title="港澳頻道",明珠台
+http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+#EXTINF:-1 group-title="港澳頻道",翡翠台4K
+http://o12.veryfast.filegear-sg.me/hls/fct4k/playlist.m3u8
+#EXTINF:-1 group-title="港澳頻道",歡笑劇場4K
+http://cdn3.veryfast.filegear-sg.me/live/hxjc4k/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CCTV2
+http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CCTV4
+http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",CCTV9
+http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",華語影院
+http://cdn3.veryfast.filegear-sg.me/live/hyyy/stream.m3u8
+#EXTINF:-1 group-title="港澳頻道",星光影院
+http://cdn3.veryfast.filegear-sg.me/live/xgyy/stream.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="港澳頻道",鳳凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港澳頻道",鳳凰資訊
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港澳頻道",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳頻道",天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial
+#EXTINF:-1 group-title="港澳頻道",Pearl
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 group-title="港澳頻道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="港澳頻道",TVB J1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 group-title="港澳頻道",TVB J2
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="港澳頻道",無線新聞
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 group-title="港澳頻道",娛樂新聞
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+#EXTINF:-1 group-title="港澳頻道",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港澳頻道",ViuTV6
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+#EXTINF:-1 group-title="港澳頻道",翡翠華麗
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="港澳頻道",美亞電影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="港澳頻道",千禧經典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="港澳頻道",重溫經典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 group-title="港澳頻道",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+#EXTINF:-1 group-title="港澳頻道",澳門Macau
+http://php.jdshipin.com/PLTV/iptv.php?id=as
+#EXTINF:-1 group-title="港澳頻道",astro Aec
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="港澳頻道",astro Aod
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="港澳頻道",astro歡喜台
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 group-title="港澳頻道",astro全家
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="港澳頻道",亞洲武俠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 group-title="港澳頻道",TVB星河
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 group-title="港澳頻道",TVB武俠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+#EXTINF:-1 group-title="港澳頻道",HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 group-title="港澳頻道",RTHK31
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 group-title="港澳頻道",RTHK32
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+
+
+
+#########################################
+
+#EXTM3U url-tvg="https://static.188766.xyz/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 group-title="中國大陸",CCTV1
+http://t.061899.xyz/tl/tl.php?id=cctv1
+#EXTINF:-1 group-title="中國大陸",CCTV2
+http://t.061899.xyz/tl/tl.php?id=cctv2
+#EXTINF:-1 group-title="中國大陸",CCTV3
+http://t.061899.xyz/tl/tl.php?id=cctv3
+#EXTINF:-1 group-title="中國大陸",CCTV4
+http://t.061899.xyz/tl/tl.php?id=cctv4
+#EXTINF:-1 group-title="中國大陸",CCTV5
+http://t.061899.xyz/tl/tl.php?id=cctv5
+#EXTINF:-1 group-title="中國大陸",CCTV5+
+http://t.061899.xyz/tl/tl.php?id=cctv5p
+#EXTINF:-1 group-title="中國大陸",CCTV6
+http://t.061899.xyz/tl/tl.php?id=cctv6
+#EXTINF:-1 group-title="中國大陸",CCTV7
+http://t.061899.xyz/tl/tl.php?id=cctv7
+#EXTINF:-1 group-title="中國大陸",CCTV8
+http://t.061899.xyz/tl/tl.php?id=cctv8
+#EXTINF:-1 group-title="中國大陸",CCTV9
+http://t.061899.xyz/tl/tl.php?id=cctv9
+#EXTINF:-1 group-title="中國大陸",CCTV10
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1 group-title="中國大陸",CCTV11
+http://t.061899.xyz/tl/tl.php?id=cctv11
+#EXTINF:-1 group-title="中國大陸",CCTV12
+http://t.061899.xyz/tl/tl.php?id=cctv12
+#EXTINF:-1 group-title="中國大陸",CCTV13
+http://t.061899.xyz/tl/tl.php?id=cctv13
+#EXTINF:-1 group-title="中國大陸",CCTV14
+http://t.061899.xyz/tl/tl.php?id=cctv14
+#EXTINF:-1 group-title="中國大陸",CCTV15
+http://t.061899.xyz/tl/tl.php?id=cctv15
+#EXTINF:-1 group-title="中國大陸",CCTV16
+http://t.061899.xyz/tl/tl.php?id=cctv16
+#EXTINF:-1 group-title="中國大陸",CCTV17
+http://t.061899.xyz/tl/tl.php?id=cctv17
+#EXTINF:-1 group-title="中國大陸",CHC家庭影院
+http://t.061899.xyz/tl/dq.php?id=jtyy
+#EXTINF:-1 group-title="中國大陸",CHC動作電影
+http://t.061899.xyz/tl/dq.php?id=dzdy
+#EXTINF:-1 group-title="中國大陸",CHC高清電影
+http://t.061899.xyz/tl/dq.php?id=ymdy
+
+
+
+#EXTINF:-1 group-title="中國大陸",CCTV-1綜合
+http://t.061899.xyz/tl/tl.php?id=cctv1
+#EXTINF:-1 group-title="中國大陸",CCTV-2財經
+http://t.061899.xyz/tl/tl.php?id=cctv2
+#EXTINF:-1 group-title="中國大陸",CCTV-3綜藝
+http://t.061899.xyz/tl/tl.php?id=cctv3
+#EXTINF:-1 group-title="中國大陸",CCTV-4中文國際
+http://t.061899.xyz/tl/tl.php?id=cctv4
+#EXTINF:-1 group-title="中國大陸",CCTV-5體育
+http://t.061899.xyz/tl/tl.php?id=cctv5
+#EXTINF:-1 group-title="中國大陸",CCTV-6電影
+http://t.061899.xyz/tl/tl.php?id=cctv6
+#EXTINF:-1 group-title="中國大陸",CCTV-7國防軍事
+http://t.061899.xyz/tl/tl.php?id=cctv7
+#EXTINF:-1 group-title="中國大陸",CCTV-8電視劇
+http://t.061899.xyz/tl/tl.php?id=cctv8
+#EXTINF:-1 group-title="中國大陸",CCTV-9紀錄
+http://t.061899.xyz/tl/tl.php?id=cctv9
+#EXTINF:-1 group-title="中國大陸",CCTV-10科教
+http://t.061899.xyz/tl/tl.php?id=cctv10
+#EXTINF:-1 group-title="中國大陸",CCTV-11戲曲
+http://t.061899.xyz/tl/tl.php?id=cctv11
+#EXTINF:-1 group-title="中國大陸",CCTV-12社會與法
+http://t.061899.xyz/tl/tl.php?id=cctv12
+#EXTINF:-1 group-title="中國大陸",CCTV-13新聞
+http://t.061899.xyz/tl/tl.php?id=cctv13
+#EXTINF:-1 group-title="中國大陸",CCTV-14少兒
+http://t.061899.xyz/tl/tl.php?id=cctv14
+#EXTINF:-1 group-title="中國大陸",CCTV-15音樂
+http://t.061899.xyz/tl/tl.php?id=cctv15
+#EXTINF:-1 group-title="中國大陸",CCTV-16奧林匹克
+http://t.061899.xyz/tl/tl.php?id=cctv16
+#EXTINF:-1 group-title="中國大陸",CCTV-17農業農村
+http://t.061899.xyz/tl/tl.php?id=cctv17
+
+
+
+#EXTINF:-1 group-title="中國大陸",CCTV-1綜合
+http://z.b.bkpcp.top/m.php?id=cctv1
+#EXTINF:-1 group-title="中國大陸",CCTV-2財經
+http://z.b.bkpcp.top/m.php?id=cctv2
+#EXTINF:-1 group-title="中國大陸",CCTV-3綜藝
+http://z.b.bkpcp.top/m.php?id=cctv3
+#EXTINF:-1 group-title="中國大陸",CCTV-4中文國際
+http://z.b.bkpcp.top/m.php?id=cctv4
+#EXTINF:-1 group-title="中國大陸",CCTV-5體育
+http://z.b.bkpcp.top/m.php?id=cctv5
+#EXTINF:-1 group-title="中國大陸",CCTV-6電影
+http://z.b.bkpcp.top/m.php?id=cctv6
+#EXTINF:-1 group-title="中國大陸",CCTV-7國防軍事
+http://z.b.bkpcp.top/m.php?id=cctv7
+#EXTINF:-1 group-title="中國大陸",CCTV-8電視劇
+http://z.b.bkpcp.top/m.php?id=cctv8
+#EXTINF:-1 group-title="中國大陸",CCTV-9紀錄
+http://z.b.bkpcp.top/m.php?id=cctv9
+#EXTINF:-1 group-title="中國大陸",CCTV-10科教
+http://z.b.bkpcp.top/m.php?id=cctv10
+#EXTINF:-1 group-title="中國大陸",CCTV-11戲曲
+http://z.b.bkpcp.top/m.php?id=cctv11
+#EXTINF:-1 group-title="中國大陸",CCTV-12社會與法
+http://z.b.bkpcp.top/m.php?id=cctv12
+#EXTINF:-1 group-title="中國大陸",CCTV-13新聞
+http://z.b.bkpcp.top/m.php?id=cctv13
+#EXTINF:-1 group-title="中國大陸",CCTV-14少兒
+http://z.b.bkpcp.top/m.php?id=cctv14
+#EXTINF:-1 group-title="中國大陸",CCTV-15音樂
+http://z.b.bkpcp.top/m.php?id=cctv15
+#EXTINF:-1 group-title="中國大陸",CCTV-17農業農村
+http://z.b.bkpcp.top/m.php?id=cctv17
+
+
+
+#EXTINF:-1 group-title="中國大陸",CCTV-1綜合
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+#EXTINF:-1 group-title="中國大陸",CCTV-2財經
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+#EXTINF:-1 group-title="中國大陸",CCTV-3綜藝
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+#EXTINF:-1 group-title="中國大陸",CCTV-4中文國際
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+#EXTINF:-1 group-title="中國大陸",CCTV-5體育
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 group-title="中國大陸",CCTV-6電影
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+#EXTINF:-1 group-title="中國大陸",CCTV-7國防軍事
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+#EXTINF:-1 group-title="中國大陸",CCTV-8電視劇
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+#EXTINF:-1 group-title="中國大陸",CCTV-9紀錄
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+#EXTINF:-1 group-title="中國大陸",CCTV-10科教
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+#EXTINF:-1 group-title="中國大陸",CCTV-11戲曲
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+#EXTINF:-1 group-title="中國大陸",CCTV-12社會與法
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+#EXTINF:-1 group-title="中國大陸",CCTV-13新聞
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+#EXTINF:-1 group-title="中國大陸",CCTV-14少兒
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+#EXTINF:-1 group-title="中國大陸",CCTV-15音樂
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+#EXTINF:-1 group-title="中國大陸",CCTV-16奧林匹克
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+#EXTINF:-1 group-title="中國大陸",CCTV-17農業農村
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+
+
+
+#EXTINF:-1 group-title="中國大陸",CCTV-1 綜合
+http://23.237.228.134/live5/CCTV1.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-2 財經
+http://23.237.228.134/live5/CCTV2.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-3 綜藝
+http://23.237.228.134/live5/CCTV3.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-4 中文國際
+http://23.237.228.134/live5/CCTV4.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-5 體育頻道
+http://23.237.228.134/live5/CCTV5.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-5+ 體育賽事
+http://23.237.228.134/live5/CCTV5p.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-6 電影
+http://23.237.228.134/live5/CCTV6.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-7 軍事農業
+http://23.237.228.134/live5/CCTV7.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-8 電視劇
+http://23.237.228.134/live5/CCTV8.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-9 記錄
+http://23.237.228.134/live5/CCTV9.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-10 科教
+http://23.237.228.134/live5/CCTV10.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-11 戲曲
+http://23.237.228.134/live3/CCTV11.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-12 社會與法
+http://23.237.228.134/live3/CCTV12.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-13 新聞頻道
+http://23.237.228.134/live3/CCTV13.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-14 少兒
+http://23.237.228.134/live3/CCTV14.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-15 音樂
+http://23.237.228.134/live3/CCTV15.m3u8
+#EXTINF:-1 group-title="中國大陸",CCTV-17 農業
+http://23.237.228.134/live3/CCTV17.m3u8
+#EXTINF:-1 group-title="中國大陸",CGTN
+http://23.237.228.134/live3/CGTN.m3u8
+#EXTINF:-1 group-title="中國大陸",北京衛視
+http://23.237.228.134/live3/beijing.m3u8
+#EXTINF:-1 group-title="中國大陸",東方衛視
+http://23.237.228.134/live3/dongfang.m3u8
+#EXTINF:-1 group-title="中國大陸",江蘇衛視
+http://23.237.228.134/live3/jiangsu.m3u8
+#EXTINF:-1 group-title="中國大陸",湖南衛視
+http://23.237.228.134/live6/hunan.m3u8
+#EXTINF:-1 group-title="中國大陸",浙江衛視
+http://23.237.228.134/live6/zhejiang.m3u8
+#EXTINF:-1 group-title="中國大陸",深圳衛視
+http://23.237.228.134/live6/shenzhen.m3u8
+#EXTINF:-1 group-title="中國大陸",東南衛視
+http://23.237.228.134/live6/dongnan.m3u8
+#EXTINF:-1 group-title="中國大陸",廣東衛視
+http://23.237.228.134/live6/guangdong.m3u8
+#EXTINF:-1 group-title="中國大陸",廣西衛視
+http://23.237.228.134/live6/guangxi.m3u8
+#EXTINF:-1 group-title="中國大陸",湖北衛視
+http://23.237.228.134/live6/hubei.m3u8
+#EXTINF:-1 group-title="中國大陸",四川衛視
+http://23.237.228.134/live6/sichuan.m3u8
+#EXTINF:-1 group-title="中國大陸",河南衛視
+http://23.237.228.134/live6/henan.m3u8
+#EXTINF:-1 group-title="中國大陸",海南衛視
+http://23.237.228.134/live6/hainan.m3u8
+#EXTINF:-1 group-title="中國大陸",黑龍江衛視
+http://23.237.228.134/live6/heilongjiang.m3u8
+#EXTINF:-1 group-title="中國大陸",重慶衛視
+http://23.237.228.134/live6/chongqing.m3u8
+#EXTINF:-1 group-title="中國大陸",貴州衛視
+http://23.237.228.134/live6/guizhou.m3u8
+#EXTINF:-1 group-title="中國大陸",山東衛視
+http://23.237.228.134/live8/shandong.m3u8
+#EXTINF:-1 group-title="中國大陸",內蒙古衛視
+http://23.237.228.134/live8/neimenggu.m3u8
+#EXTINF:-1 group-title="中國大陸",雲南衛視
+http://23.237.228.134/live8/yunnan.m3u8
+#EXTINF:-1 group-title="中國大陸",山西衛視
+http://23.237.228.134/live8/shanxi.m3u8
+#EXTINF:-1 group-title="中國大陸",青海衛視
+http://23.237.228.134/live8/qinghai.m3u8
+#EXTINF:-1 group-title="中國大陸",吉林衛視
+http://23.237.228.134/live8/jilin.m3u8
+#EXTINF:-1 group-title="中國大陸",遼寧衛視
+http://23.237.228.134/live8/liaoning.m3u8
+#EXTINF:-1 group-title="中國大陸",天津衛視
+http://23.237.228.134/live8/tianjing.m3u8
+#EXTINF:-1 group-title="中國大陸",江西衛視
+http://23.237.228.134/live8/jiangxi.m3u8
+#EXTINF:-1 group-title="中國大陸",安徽衛視
+http://23.237.228.134/live8/anhui.m3u8
+#EXTINF:-1 group-title="中國大陸",陝西衛視
+http://23.237.228.134/live8/shanxiws.m3u8
+#EXTINF:-1 group-title="中國大陸",河北衛視
+http://23.237.228.134/live8/hebei.m3u8
+#EXTINF:-1 group-title="中國大陸",甘肅衛視
+http://23.237.228.134/live8/gansu.m3u8
+
+
+
+#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="中國大陸",CCTV-1 综合
+https://migu.188766.xyz/?migutoken=59a3eeabe92b5ffb54c70707848b41ed&id=CCTV1&type=yy
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="中國大陸",CCTV-2 财经
+https://migu.188766.xyz/?migutoken=1bfe19116faa090c9b984facbd7ae932&id=CCTV2&type=yy
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="中國大陸",CCTV-3 综艺
+https://migu.188766.xyz/?migutoken=df8e9e609470cdc1d79c8c8ae4e6a103&id=CCTV3&type=yy
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="中國大陸",CCTV-4 中文国际
+https://migu.188766.xyz/?migutoken=eaadf827c0f939ecaa23958d95338330&id=CCTV4&type=yy
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="中國大陸",CCTV-5 体育
+https://migu.188766.xyz/?migutoken=1e71740a700dad87cbc47d03353a4076&id=CCTV5&type=yy
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="中國大陸",CCTV-5+ 体育赛事
+https://migu.188766.xyz/?migutoken=8a0512e7896ceb5e06bcb15250268322&id=CCTV5p&type=yy
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="中國大陸",CCTV-6 电影
+https://migu.188766.xyz/?migutoken=38cc86ac574ca7a464d5799ff0833fec&id=CCTV6&type=yy
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="中國大陸",CCTV-7 国防军事
+https://migu.188766.xyz/?migutoken=625c23d8f244304cd9145e4ad206b4ed&id=CCTV7&type=yy
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="中國大陸",CCTV-8 电视剧
+https://migu.188766.xyz/?migutoken=46fa41b8400002a51ebade3f37482890&id=CCTV8&type=yy
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="中國大陸",CCTV-9 纪录
+https://migu.188766.xyz/?migutoken=cd5cfd9afe2a583f2a02de29f59a18b6&id=CCTV9&type=yy
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="中國大陸",CCTV-10 科教
+https://migu.188766.xyz/?migutoken=cada92d28899cda0a6ba961ac8c29b2f&id=CCTV10&type=yy
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="中國大陸",CCTV-11 戏曲
+https://migu.188766.xyz/?migutoken=9e0817daf3e86f19d5377077bfaf743b&id=CCTV11&type=yy
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="中國大陸",CCTV-12 社会与法
+https://migu.188766.xyz/?migutoken=69851962dc59a7fa057c343fa1548aa7&id=CCTV12&type=yy
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="中國大陸",CCTV-13 新闻
+https://migu.188766.xyz/?migutoken=15db55fb63d40b01ccfc506e0fc6b1a6&id=CCTV13&type=yy
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="中國大陸",CCTV-14 少儿
+https://migu.188766.xyz/?migutoken=bb1c863eda27dc59aa309669d1c854af&id=CCTV14&type=yy
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="中國大陸",CCTV-15 音乐
+https://migu.188766.xyz/?migutoken=4f9baae0508435e8ff1c724e3030f617&id=CCTV15&type=yy
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="中國大陸",CCTV-17 农业农村
+https://migu.188766.xyz/?migutoken=cc5db4dc6bcdb9775410a8e917e36133&id=CCTV17&type=yy
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png" group-title="中國大陸",CCTV-4 中文国际 欧洲
+https://migu.188766.xyz/?migutoken=b783f34cf7bf96b8c99d8282e5961fcf&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="中國大陸",CCTV-4 中文国际 美洲
+https://migu.188766.xyz/?migutoken=df6b1977b0d04761c3fe1ebde22a45c4&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="中國大陸",湖南卫视
+https://migu.188766.xyz/?migutoken=3a65a41ac0957f2983a7a293beae4e66&id=hnws&type=sz
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="中國大陸",浙江卫视
+https://migu.188766.xyz/?migutoken=fb428145b586c04562b88e790f9d5c4f&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="中國大陸",浙江卫视
+https://migu.188766.xyz/?migutoken=84a74db0f6f70b4288dea2eab0b330f4&id=z_jws&type=sz
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/江苏卫视.png" group-title="中國大陸",江苏卫视
+https://migu.188766.xyz/?migutoken=ed3c2f3801d0b97d81cbaf0d3ebdf057&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/东方卫视.png" group-title="中國大陸",东方卫视
+https://migu.188766.xyz/?migutoken=7391adb36d88f72f361fdba82044c72b&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/广东卫视.png" group-title="中國大陸",广东卫视
+https://migu.188766.xyz/?migutoken=5d55bfbf16b26149a6c2c65162449bd4&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖北卫视.png" group-title="中國大陸",湖北卫视
+https://migu.188766.xyz/?migutoken=dd93eb806896090f84b3a98c843fd01e&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/江西卫视.png" group-title="中國大陸",江西卫视
+https://migu.188766.xyz/?migutoken=8a967b47b222f351a9e964c17b82ddc4&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/辽宁卫视.png" group-title="中國大陸",辽宁卫视
+https://migu.188766.xyz/?migutoken=fb844590345c862296a284662f17d2b0&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南卫视.png" group-title="中國大陸",河南卫视
+https://migu.188766.xyz/?migutoken=17e05c3eb2c9984040202d339c12d323&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海南卫视.png" group-title="中國大陸",海南卫视
+https://migu.188766.xyz/?migutoken=7777cf0daeb52fc08153d96da5fef405&id=hn_hnws&type=sz
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古卫视.png" group-title="中國大陸",内蒙古卫视
+https://migu.188766.xyz/?migutoken=239b5e31125b9b3389d93d92a20c0edd&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/陕西卫视.png" group-title="中國大陸",陕西卫视
+https://migu.188766.xyz/?migutoken=9f84e4197cc6036e64f7e2b163377cbe&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/三沙卫视.png" group-title="中國大陸",三沙卫视
+https://migu.188766.xyz/?migutoken=1ef52f5fa912cfab7cf4f626d824f62f&id=hn_ssws&type=sz
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/吉林卫视.png" group-title="中國大陸",吉林卫视
+https://migu.188766.xyz/?migutoken=59da089bd243429e2010c62dc6247526&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/青海卫视.png" group-title="中國大陸",青海卫视
+https://migu.188766.xyz/?migutoken=b500da8f174d4d970f5f8e383a89e072&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海南卫视.png" group-title="中國大陸",海南卫视
+https://migu.188766.xyz/?migutoken=6ebfb445b8003a690fe7ef4ee30e6f72&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/宁夏卫视.png" group-title="中國大陸",宁夏卫视
+https://migu.188766.xyz/?migutoken=f9123f3df111e8602edba632cec2b2cc&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/农林卫视.png" group-title="中國大陸",农林卫视
+https://migu.188766.xyz/?migutoken=2f74ec963ac23bae73f4a18c8c21950a&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/兵团卫视.png" group-title="中國大陸",兵团卫视
+https://migu.188766.xyz/?migutoken=1e6f2af6ed8ef42abd00e91dd3e07a29&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/大湾区卫视.png" group-title="中國大陸",大湾区卫视
+https://migu.188766.xyz/?migutoken=3355f7d8fe77dc9a43d349b62dfb12d6&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+
+
+#########################################
+
+
+#EXTM3U
+#EXTINF:-1 group-title="USA TV" tvg-id="WOLODT1.us@SD",ABC 25 Columbia
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WLSDT1.us@SD",ABC Chicago WLS-DT1
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ACCNetwork.us@SD",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="AMC.us@East",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="AntennaTV.us@SD",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Aspire.us@SD",Aspire
+https://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="AXSTV.us@SD",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BBCAmerica.us@East",BBC America East
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="beINSportsUSA.us@SD",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BET.us@East",BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETGospel.us@SD",BET Gospel
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETHer.us@East",BET Her East
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETJams.us@SD",BET Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BETSoul.us@SD",BET Soul
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BigTenNetwork.us@SD",Big Ten Network
+https://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="BloombergTV.us@US",Bloomberg TV
+https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Bounce.us@SD",Bounce
+https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Bravo.us@East",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Buzzr.us@SD",Buzzr
+https://fl1.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CSPAN.us@SD",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WBBMDT1.us@SD",CBS Chicago WBBM-DT1
+https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CBS.us@East",CBS East (720p)
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CHBLTV.ca@SD",CHBL-TV
+https://fl1.moveonjoy.com/CA_GLOBAL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CleoTV.us@SD",Cleo TV (720p)
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CMT.us@East",CMT East
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CNBC.us@SD",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CNBCWorld.us@SD",CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ComedyTV.us@SD",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Comet.us@SD",Comet
+https://fl1.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CourtTV.us@SD",Court TV
+https://fl1.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CoziTV.us@SD",Cozi TV
+https://fl1.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave1.ca@SD",Crave 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave2.ca@SD",Crave 2
+https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave3.ca@SD",Crave 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Crave4.ca@SD",Crave 4
+https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CuriosityStream.us@SD",CuriosityStream (720p)
+https://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="CVMTV.jm@SD",CVM TV
+https://fl1.moveonjoy.com/CVM_TV_CARIBBEAN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="DisneyChannel.us@East",Disney Channel East
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="DisneyJunior.us@East",Disney Junior East
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="E.us@East",E! East
+https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ESPNU.us@SD",ESPN U (720p)
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ESPNews.us@SD",ESPNews (720p)
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FanDuelTV.us@SD",FanDuel TV
+https://fl1.moveonjoy.com/TVG/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFLDDT1.us@SD",FOX Chicago WFLD-DT1
+https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FoxSoul.us@SD",Fox Soul
+https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="",Fox Sports 1
+https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Freeform.us@East",Free form East
+https://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Fuse.us@East",Fuse East (720p)
+https://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FX.us@East",FX East
+https://fl1.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FXM.us@East",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FXX.us@East",FXX East
+https://fl1.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="FYI.us@East",FYI East
+https://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="GetTV.us@SD",GetTV (480p)
+https://fl1.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="GolfChannel.us@SD",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
+https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="History.us@East",History
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="HSN.us@East",HSN
+https://fl1.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="INSP.us@SD",INSP
+https://fl1.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="IONPlus.us@East",ION Plus East (720p)
+https://fl1.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="IONTV.us@East",ION TV East
+https://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Lifetime.us@East",Lifetime East
+https://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="LifetimeMovies.us@East",Lifetime Movies East
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="LoveNature.ca@SD",Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="",MAV TV (720p)
+https://fl1.moveonjoy.com/MAV_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MeTV.us@SD",MeTV
+https://fl1.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MGMPlus.us@East",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MilitaryHistory.us@SD",Military History
+https://fl1.moveonjoy.com/Military_History/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MLBNetwork.us@SD",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MSG.us@SD",MSG
+https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTV2.us@East",MTV2 (720p)
+https://fl1.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTVClassic.us@East",MTV Classic (360p)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTV.us@East",MTV East
+https://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="MTVLive.us@SD",MTV Live (720p)
+https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Much.ca@SD",Much (720p)
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NationalGeographic.us@East",National Geographic East
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NBATV.us@SD",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WMAQDT1.us@SD",NBC Chicago WMAQ-DT1
+https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NewsNation.us@East",News Nation (720p)
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NFLNetwork.us@SD",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NFLRedZone.us@SD",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="NickJr.us@East",Nick Jr. East (720p)
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Nickelodeon.us@East",Nickelodeon East
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Nicktoons.us@East",Nicktoons East
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="OutdoorChannel.us@SD",Outdoor Channel
+https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="OutsideTV.us@SD",Outside TV
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Ovation.us@SD",Ovation (1080p)
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Oxygen.us@East",Oxygen East
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ParamountNetwork.us@East",Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="PopTV.us@SD",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="PursuitChannel.us@SD",Pursuit Channel (720p)
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="QVC.us@SD",QVC (720p)
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Reelz.us@SD",Reelz (720p)
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Revolt.us@SD",Revolt
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Showtime2.us@East",Showtime 2 East
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Showtime.us@East",Showtime East
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ShowtimeNext.us@East",Showtime Next East
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Showtime.us@West",Showtime West (1080p)
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="ShowtimeWomen.us@East",Showtime Women East
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SmithsonianChannel.us@East",Smithsonian Channel East
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SonyChannel.mx@SD",Sony Channel
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SportsmanChannel.us@SD",Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SportsNetNewYork.us@SD",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="StartTV.us@SD",Start TV
+https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Starz.us@East",Starz East
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Starz.us@West",Starz West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="StoriesbyAMC.us@EastHD",Stories by AMC (1080p)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="SundanceTV.us@East",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Syfy.us@East",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TeenNick.us@East",TeenNick
+https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TennisChannel.us@SD",Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TheCowboyChannel.us@SD",The Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN2.ca@SD",TSN2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN3.ca@SD",TSN3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN4.ca@SD",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TSN5.ca@SD",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TVLand.us@East",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="TVOne.us@SD",TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="USANetwork.us@East",USA Network (720p)
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="VH1.us@East",VH1 East
+https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="VICETV.us@SD",VICE TV (720p)
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WNetwork.ca@East",W Network (720p)
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WeTV.us@East",We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFLADT1.us@SD",WFLA-DT1
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFLXDT1.us@SD",WFLX-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WFTSDT1.us@SD",WFTS-DT1
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="Willow.us@SD",Willow
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WKCFDT1.us@SD",WKCF-DT1
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WorldFishingNetwork.us@SD",World Fishing Network
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WPECDT1.us@SD",WPEC-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WTOGDT1.us@SD",WTOG-DT1
+https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="WVGNLD1.vi@SD",WVGN-LD1
+https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 group-title="USA TV" tvg-id="YesNetwork.us@SD",Yes Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml"
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="USA TV",A&E TV
+http://fl1.moveonjoy.com/ANE/index.m3u8
+#EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="USA TV",ABC
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="USA TV",Animal Planet
+http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="USA TV",Aspire
+http://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="USA TV",BET
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="USA TV",Bravo TV
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="USA TV",C-SPAN
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA TV",CMT
+https://fl1.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="USA TV",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="USA TV",Comedy TV
+https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="USA TV",Cooking Channel
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="USA TV",Crime & Investigation Network
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="USA TV",Discovery Life
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="USA TV",Discovery Science
+https://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="USA TV",E! Entertainment
+http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="USA TV",FUSE
+http://fl1.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="USA TV",FX Movie Channel
+http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="USA TV",FYI TV
+http://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="USA TV",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="USA TV",Grit TV
+http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="USA TV",Hallmark Channel
+http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="USA TV",Hallmark Family
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="USA TV",Hallmark Mystery
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="USA TV",HBO 2
+http://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="USA TV",HBO Comedy
+http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="USA TV",HBO Family
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="USA TV",HBO Zone
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="USA TV",Investigation Discovery
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="USA TV",Lifetime
+http://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="USA TV",Lifetime Movie Network
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="USA TV",MLB Network
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="USA TV",MSNBC
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA TV",MTV
+http://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="USA TV",National Geographic
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="USA TV",NBA TV
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="WFLA-DT.us_locals1" tvg-name="NBC" tvg-logo="https://i.gyazo.com/39d42952500205d04e448247b7889256.png" group-title="USA TV",NBC
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="USA TV",Outdoor Channel
+http://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="USA TV",Ovation
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="USA TV",Oxygen
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA TV",Paramount Network
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="USA TV",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="USA TV",Showtime
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="USA TV",Smithsonian Channel
+http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="USA TV",Sony Movie Channel
+http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="USA TV",Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="USA TV",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="USA TV",TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="USA TV",YES Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+
+
+
+
+#########################################
+
+
+
+#EXTINF:-1 group-title="體育世界",CCTV5
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 group-title="體育世界",CCTV5+
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 group-title="體育世界",CCTV5
+http://m.061899.xyz/mg/cctv5
+#EXTINF:-1 group-title="體育世界",CCTV5+
+http://m.061899.xyz/mg/cctv5p
+#EXTINF:-1 group-title="體育世界",CCTV5
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+#EXTINF:-1 group-title="體育世界",CCTV5+
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="體育世界",UK-ASTRO SPORTS 1 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828098.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="體育世界",UK-ASTRO SPORTS 2 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828097.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="體育世界",UK-ASTRO SPORTS 3 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828096.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="體育世界",UK-ASTRO SPORTS 4 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828095.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - ASTRO SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="體育世界",UK-ASTRO SPORTS 5 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828094.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-1UHD.png" group-title="體育世界",UK-BEIN SPORTS 1 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828072.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-2UHD.png" group-title="體育世界",UK-BEIN SPORTS 2 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828071.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - BEIN SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BEINGROUP/BEIN-3UHD.png" group-title="體育世界",UK-BEIN SPORTS 3 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/828070.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT" tvg-logo="https://logo.protv.cc/piconsnew/skysportsmainevent.png" group-title="體育世界",UK-SKY SPORTS MAIN EVENT
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577947.ts
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PREMIER LEAGUE" tvg-logo="https://logo.protv.cc/piconsnew/skysportspremierleague.png" group-title="體育世界",UK-SKY SPORTS PREMIER LEAGUE
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577946.ts
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA" tvg-logo="https://logo.protv.cc/piconsnew/skysportsarena.png" group-title="體育世界",UK - SKY SPORTS ARENA
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577944.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS DARTS" tvg-logo="https://logo.protv.cc/piconsnew/skysportsf1.png" group-title="體育世界",UK - SKY SPORTS DARTS
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/577942.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/NBA.png"  group-title="體育世界", NBA TV
+https://hls.iill.top/api/NBA/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-1.png"  group-title="體育世界", TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-2.png"  group-title="體育世界", TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-3.png" group-title="體育世界", TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TNT-Sports-4.png" group-title="體育世界", TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-1.png" group-title="體育世界",beIN Sports 1
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-2.png" group-title="體育世界",beIN Sports 2
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-3.png" group-title="體育世界",beIN Sports 3
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-4.png" group-title="體育世界",beIN Sports 4
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/beIN-Sports-5.png" group-title="體育世界",beIN Sports 5
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-1.png" group-title="體育世界",Hub Premier 1
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-2.png" group-title="體育世界",Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-3.png" group-title="體育世界",Hub Premier 3
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-4.png" group-title="體育世界",Hub Premier 4
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-5.png" group-title="體育世界",Hub Premier 5
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-6.png" group-title="體育世界",Hub Premier 6
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-7.png" group-title="體育世界",Hub Premier 7
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Premier-8.png" group-title="體育世界",Hub Premier 8
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-1.png" group-title="體育世界",Hub Sports 1
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-2.png" group-title="體育世界",Hub Sports 2
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-3.png" group-title="體育世界",Hub Sports 3
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-4.png" group-title="體育世界",Hub Sports 4
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-5.png" group-title="體育世界",Hub Sports 5
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-6.png" group-title="體育世界",Hub Sports 6
+https://hls.iill.top/api/Hub-Sports-6/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-7.png" group-title="體育世界",Hub Sports 7
+https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-8.png" group-title="體育世界",Hub Sports 8
+https://hls.iill.top/api/Hub-Sports-8/index.m3u8
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Fight-Sports.png" group-title="體育世界",Fight Sports
+https://hls.iill.top/api/Fight-Sports/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Eurosport-1.png"  group-title="體育世界", Eurosport 1
+https://hls.iill.top/api/Eurosport-1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Eurosport-2.png"  group-title="體育世界", Eurosport 2
+https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Spotv-1.png" group-title="體育世界",Spotv 1
+https://hls.iill.top/api/Spotv-1/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Spotv-2.png" group-title="體育世界",Spotv 2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+
+
+
+
+
+
+#########################################
+
+
+
+#EXTINF:-1 group-title="音樂世界",CCTV15
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 group-title="音樂世界", New K-Pop (720p)
+https://newidco-newkid-1-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="音樂世界", New K-Pop (1080p)
+https://newidco-newkid-1-eu.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 group-title="音樂世界", YG TV (720p)
+https://newidco-ygtv-1-us.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="音樂世界", YG TV (1080p)
+https://newidco-ygtv-1-us.plex.wurl.tv/4300.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="音樂世界",MTV CLASSIC
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577451.ts
+#EXTINF:-1 group-title="音樂世界",MTV 00s
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577452.ts
+#EXTINF:-1 group-title="音樂世界",MTV LIVE NOW
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577450.ts
+#EXTINF:-1 group-title="音樂世界",MTV HITS
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577449.ts
+#EXTINF:-1 group-title="音樂世界",MTV MUSIC
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577448.ts
+#EXTINF:-1 group-title="音樂世界",NOW ROCK
+http://line.lebiptv.me/live/km6m4950/pqGB5365/1276281.ts
+#EXTINF:-1 group-title="音樂世界",DANCE TV
+http://line.lebiptv.me/live/km6m4950/pqGB5365/1110685.ts
+#EXTINF:-1 group-title="音樂世界",CLUBLAND TV
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577445.ts
+#EXTINF:-1 group-title="音樂世界",TRACE URBAN
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577436.ts
+#EXTINF:-1 group-title="音樂世界",VH1
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577433.ts
+#EXTINF:-1 group-title="音樂世界",NOW 70S
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577432.ts
+#EXTINF:-1 group-title="音樂世界",NOW 80S
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577431.ts
+#EXTINF:-1 group-title="音樂世界",NOW 90S
+http://line.lebiptv.me/live/km6m4950/pqGB5365/577430.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20240702T044851SQUARE.png" group-title="音樂世界", XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="音樂世界", XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20250121T101057SQUARE.png" group-title="音樂世界", XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="音樂世界", XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="音樂世界", XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="音樂世界", Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="音樂世界", Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20241112T001845SQUARE.png" group-title="音樂世界", Vevo 2K
+https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="音樂世界", Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="音樂世界", Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20250602T231528SQUARE.png" group-title="音樂世界", Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+
+
+#EXTINF:-1 tvg-id="mtv-europe" group-title="音樂世界", MovieMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", THT Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", Movie Music
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", AMC Music
+https://AMChls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", Music Channel
+https://cmc-ono.amagi.tv/playlist1080_p.m3u8
+#EXTINF:-1 tvg-id="MUSIC CH" group-title="音樂世界", AT Krone Hit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg", VEVO '70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg", VEVO '80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5", VEVO '90s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9v7LJW0wfFmbQ7HjRMLBTVGumAp8Q1M6GA&s", VEVO 2K
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5", VEVO Retro Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAIqTgSUucFH_wUVW6CXnjeqOzHKKxDTsVCg&s", VEVO Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9q5J7f0x97zzzGfYlStEk-5DrSH40pZYrA&s", VEVO Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://i.ytimg.com/vi/3ZT9_H4-hbM/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD3hHi9dHRWgktXx4GdBRHncMxNoA", VEVO Christmas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-02/now70s255x140.png?itok=Ep_KcuyL", Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2020-01/Now80s-logo255x140.png?itok=jOXm9NjN", Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUHqjVPT1GLKWYGTjwXzedypQP25sViO6PQ&s", Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png", Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png", XITE 80s FLASHBLACK
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png", XITE 90s THROWBACK
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png", XITE ROCK ON
+https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png", Radio Kiss Kiss
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/76QzcCMb3h.png", Radio Kiss Kiss ITALIA
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik AMVA 2020
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik Cafe Club Serbia
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik HipHop Serbia
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik Jeka Serbia
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik Mediteraneo Serbia
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik OKK Serbia
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik Rock Roll Serbia
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik TV Serbia
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik Worldwide Serbia
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://qello.com/static/images/metadata/SiteImage.png", Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQckMgjm54-SwNx-SsrPM2vj-zCtVeathHYps9lIm1WYg&s", Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://karaoke.stingray.com/static/site/MetaImage.jpg", Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://www.stingray.com/wp-content/uploads/2024/10/Stingray-Naturescape-Self-care-Sundays.jpg", Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/50a3ecdf-9e7c-4632-9480-193ffeb8650c.jpeg", Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hit-list/thumbh_20200717_232723.jpg", Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-classic-rock/poster_20200717_232723.jpg", Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-rock-alternative/thumbh_20200717_232723.jpg", Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-pop-adult/poster_20200717_232723.jpg", Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://mediafile.galaxie.ca/data/000/111/505/000111505539", Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-hot-country/poster_20200717_232723.jpg", Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416920", Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://mediafile.galaxie.ca/data/000/111/416/000111416831", Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://mediafile.galaxie.ca/data/000/155/867/000155867535", Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://mediafile.galaxie.ca/data/000/155/863/000155863632", Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://s3.klowdtv.net/herring/images/channels/stingrayMusicEasyListening/logo_big.png", Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://image.xumo.com/v1/channels/channel/99991121/600x337.webp?type=channelTile", Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://mediafile.galaxie.ca/data/000/110/456/000110456009", Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/plextv/master.m3u8
+#EXTINF:-1 group-title="音樂世界" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-todays-latin-pop/thumbh_20200717_232723.jpg", Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/plextv/master.m3u8
+
+
+
+#########################################
+
+
