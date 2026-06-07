@@ -2,41 +2,41 @@
 
 
 
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports1
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports1
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports2
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports2
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports3
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports3
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports4
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports4
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports5
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports5
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports6
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports6
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports7
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports7
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports8
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports8
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW sports9
+#EXTINF:-1 group-title="NOW SPORTS",NOW sports9
 http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748438.m3u8
 
 
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育1
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382843&extension=ts&play_token=KANAeecxcz
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育2
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382842&extension=ts&play_token=MCoDoR8s9G
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育3
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382841&extension=ts&play_token=5uiKCGTNCF
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育5
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育5
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382839&extension=ts&play_token=lu0NOftGgg
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育6
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育6
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382838&extension=ts&play_token=WQ4pi5DTy3
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育7
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育7
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382837&extension=ts&play_token=rRmhe1TsX7
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育4K1
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育4K1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382836&extension=ts&play_token=jSAYXQsMoY
-#EXTINF:-1 group-title="NOW SPORTS体育",NOW體育
+#EXTINF:-1 group-title="NOW SPORTS",NOW體育
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=382834&extension=ts&play_token=JBOlpsgTKU
 
 
@@ -274,6 +274,33 @@ https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 
 
 
+#EXTINF:-1 group-title="台灣",TVBS新聞台
+http://74.91.26.218:82/live/tvbsxw.m3u8
+#EXTINF:-1 group-title="台灣",博斯高球1
+http://74.91.26.218:82/live/bsgq1.m3u8
+#EXTINF:-1 group-title="台灣",博斯高球2
+http://74.91.26.218:82/live/bsgq2.m3u8
+#EXTINF:-1 group-title="台灣",博斯魅力
+http://74.91.26.218:82/live/bsml.m3u8
+#EXTINF:-1 group-title="台灣",博斯網球
+http://74.91.26.218:82/live/bswq.m3u8
+
+#EXTINF:-1 group-title="台灣",翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 group-title="台灣",無線新聞台
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 group-title="台灣",TVB Plus
+http://74.91.26.218:82/live/j2.m3u8
+#EXTINF:-1 group-title="台灣",TVB星河國語
+http://74.91.26.218:82/live/tvbxh.m3u8
+#EXTINF:-1 group-title="台灣",天映頻道
+http://74.91.26.218:82/live/typd.m3u8
+#EXTINF:-1 group-title="台灣",天映經典
+http://74.91.26.218:82/live/tyjd.m3u8
+
+
+
+
 #EXTINF:-1 group-title="台灣",愛爾達體育1
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 #EXTINF:-1 group-title="台灣",愛爾達體育1
@@ -281,30 +308,6 @@ https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-
 #EXTINF:-1 group-title="台灣",亞洲旅遊
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-dash-hls/da-cl-fhd-4s-ma/ll-test-dash-hls.mpd
 
-
-
-#EXTINF:-1 group-title="台灣",MOMO親子
-http://gat.xyys.site/cdnlive.php?mode=play;id=b48858332dd554bb87f0f62ff2d3e977;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",DreamWorks
-http://gat.xyys.site/cdnlive.php?mode=play;id=5419f14ed0f65f60a5566e417f085d73;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",華藝中文
-http://gat.xyys.site/cdnlive.php?mode=play;id=0a011cdb74635c5ca7eaf0ba9f79a9fd;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達日韓
-http://gat.xyys.site/cdnlive.php?mode=play;id=329d0c64d07e59568922ae4b54812738;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達影劇
-http://gat.xyys.site/cdnlive.php?mode=play;id=8e0d3ac5ce59566b9b318730d4421c7f;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達綜合
-http://gat.xyys.site/cdnlive.php?mode=play;id=9c7fd04c570f59e38246fc5a1f5f4160;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",愛爾達綜合
-http://gat.xyys.site/cdnlive.php?mode=play;id=7563f78ba12c5e7a8a07a137922d4553;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO
-http://gat.xyys.site/cdnlive.php?mode=play;id=d9a13b2abd9b54c4b9f73b3ea7fc435f;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO_HD
-http://gat.xyys.site/cdnlive.php?mode=play;id=0076c081ca645dce96fec93cc4f000c7;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO Hits
-http://gat.xyys.site/cdnlive.php?mode=play;id=432c06f4959e5ef6869e980ef4aeb03a;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
-#EXTINF:-1 group-title="台灣",HBO Signature
-http://gat.xyys.site/cdnlive.php?mode=play;id=c09733a24e805423962c37e7f93b9260;token=1vTGRVZYFOZ3DZ45gNUC11hrdqAj9GfT
 
 
 #EXTINF:-1 group-title="台灣",民視新聞(211)
@@ -327,20 +330,7 @@ http://211.72.174.95:8138/0.ts
 #EXTINF:-1 group-title="台灣",澳門蓮花
 http://r.jdshipin.com/5DWJk
 
-#EXTINF:-1 group-title="台灣",緯來電影(smt)
-https://smt.1678520.xyz/163189/602e9465658d4f8c
-#EXTINF:-1 group-title="台灣",緯來戲劇(smt)
-https://smt.1678520.xyz/163189/ab657380c65c1fd1
-#EXTINF:-1 group-title="台灣",緯來體育(smt)
-https://smt.1678520.xyz/163189/b10b2645c6d9de2b
-#EXTINF:-1 group-title="台灣",龍祥時代(smt)
-https://smt.1678520.xyz/163189/6963a2247128286b
-#EXTINF:-1 group-title="台灣",東森電影(smt)
-https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
-#EXTINF:-1 group-title="台灣",東森戲劇(smt)
-https://smt.1678520.xyz/163189/f60cd3f14b06dabc
-#EXTINF:-1 group-title="台灣",東森洋片(smt)
-https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
+
 
 
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龍華電影.png" group-title="台灣",龍華電影台
@@ -490,6 +480,18 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://11.112114.xyz/logo/Al Jazeera English.png" group-title="台灣",Al Jazeera English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8 
+
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://11.112114.xyz/logo/BBC News.png" group-title="台灣",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8 
+
+#EXTINF:-1 tvg-id="CNN US" tvg-name="CNN US" tvg-logo="https://11.112114.xyz/logo/CNN US.png" group-title="台灣",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
+
+
+
+
 
 #EXTINF:-1 group-title="台灣",灌篮高手
 https://live.ottiptv.cc/yy/1382735626
@@ -505,234 +507,402 @@ https://live.ottiptv.cc/yy/1382735626
 
 #EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰mytv",翡翠台4K(字幕)
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="鳳凰中文" group-title="🇭🇰mytv",鳳凰中文
+#EXTINF:-1 tvg-name="鳳凰中文" group-title="mytv",鳳凰中文
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-name="RTHK33" group-title="🇭🇰mytv",CCTV1港澳版
+#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
 https://cdn6.163189.xyz/163189/cctv1
-#EXTINF:-1 tvg-name="CCTV13" group-title="🇭🇰mytv",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 https://cdn10.163189.xyz/163189/cctv13/
-#EXTINF:-1 tvg-name="TVB Plus" group-title="🇭🇰mytv",TVB Plus(字幕)
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(字幕)
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-name="HOY77" group-title="🇭🇰mytv",HOY TV
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
 https://cdn6.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="HOY77" group-title="🇭🇰mytv",HOY TV
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
 https://cdn.163189.xyz/163189/hoy
-#EXTINF:-1 tvg-name="HOY78" group-title="🇭🇰mytv",HOY資訊台
+#EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY資訊台
 https://cdn.163189.xyz/163189/hoy78
-#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="🇭🇰mytv",HOY國際財經台
+#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv",HOY國際財經台
 https://cdn11.163189.xyz/163189/hoy76
-#EXTINF:-1 tvg-name="ViuTV" group-title="🇭🇰mytv",ViuTV
+#EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
 https://cdn10.163189.xyz/163189/viu/
-#EXTINF:-1 tvg-name="ViuTVsix" group-title="🇭🇰mytv",ViuTVsix
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVsix
 https://cdn10.163189.xyz/163189/viu6/
-#EXTINF:-1 tvg-name="Now新聞台" group-title="🇭🇰mytv",NOW新聞台
+#EXTINF:-1 tvg-name="Now新聞台" group-title="mytv",NOW新聞台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="RTHK31" group-title="🇭🇰mytv",RTHK31
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
 https://cdn.163189.xyz/163189/rthk31
-#EXTINF:-1 tvg-name="RTHK32" group-title="🇭🇰mytv",RTHK32
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
 https://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 tvg-name="澳視澳門" group-title="🇭🇰mytv",澳視澳門
+#EXTINF:-1 tvg-name="澳視澳門" group-title="mytv",澳視澳門
 https://cdn6.163189.xyz/163189/asam
-#EXTINF:-1 tvg-name="澳視衛星" group-title="🇭🇰mytv",澳視衛星
+#EXTINF:-1 tvg-name="澳視衛星" group-title="mytv",澳視衛星
 https://cdn6.163189.xyz/163189/as
-#EXTINF:-1 tvg-name="澳視體育" group-title="🇭🇰mytv",澳門體育
+#EXTINF:-1 tvg-name="澳視體育" group-title="mytv",澳門體育
 https://cdn6.163189.xyz/163189/amty
-#EXTINF:-1 tvg-name="澳視綜藝" group-title="🇭🇰mytv",澳門綜藝
+#EXTINF:-1 tvg-name="澳視綜藝" group-title="mytv",澳門綜藝
 https://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 tvg-name="澳門蓮花" group-title="🇭🇰mytv",澳門蓮花
+#EXTINF:-1 tvg-name="澳門蓮花" group-title="mytv",澳門蓮花
 https://cdn6.163189.xyz/163189/amlh
-#EXTINF:-1 tvg-name="重溫經典" group-title="🇭🇰mytv",重溫經典
+#EXTINF:-1 tvg-name="重溫經典" group-title="mytv",重溫經典
 https://cdn6.163189.xyz/163189/cwjd
-#EXTINF:-1 tvg-name="鳳凰資訊" group-title="🇭🇰mytv",鳳凰資訊
+#EXTINF:-1 tvg-name="鳳凰資訊" group-title="mytv",鳳凰資訊
 https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-name="鳳凰香港" group-title="🇭🇰mytv",鳳凰香港
+#EXTINF:-1 tvg-name="鳳凰香港" group-title="mytv",鳳凰香港
 https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-name="TVB1" group-title="🇭🇰mytv",TVB1
+#EXTINF:-1 tvg-name="TVB1" group-title="mytv",TVB1
 https://cdn6.163189.xyz/163189/tvb1
-#EXTINF:-1 tvg-name="TVBJ1" group-title="🇭🇰mytv",TVBJ1
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVBJ1
 https://cdn6.163189.xyz/163189/j1
-#EXTINF:-1 tvg-name="翡翠劇集台" group-title="🇭🇰mytv",翡翠劇集台
+#EXTINF:-1 tvg-name="翡翠劇集台" group-title="mytv",翡翠劇集台
 https://cdn6.163189.xyz/163189/tvbd
-#EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰mytv",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
 https://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰mytv",翡翠台(字幕)
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(字幕)
 https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="明珠台" group-title="🇭🇰mytv",明珠台(字幕)
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(字幕)
 https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="無線新聞" group-title="🇭🇰mytv",無線新聞台
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
 https://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 tvg-name="廣東珠江" group-title="🇭🇰mytv",廣東珠江
+#EXTINF:-1 tvg-name="廣東珠江" group-title="mytv",廣東珠江
 https://cdn2.163189.xyz/163189/gdzj
-#EXTINF:-1 tvg-name="廣東體育" group-title="🇭🇰mytv",廣東體育
+#EXTINF:-1 tvg-name="廣東體育" group-title="mytv",廣東體育
 https://cdn2.163189.xyz/163189/gdty
-#EXTINF:-1 tvg-name="八度空間" group-title="🇭🇰mytv",八度空間
+#EXTINF:-1 tvg-name="八度空間" group-title="mytv",八度空間
 https://cdn6.163189.xyz/163189/8tv
-#EXTINF:-1 tvg-name="Channel 5" group-title="🇭🇰mytv",CH5
+#EXTINF:-1 tvg-name="Channel 5" group-title="mytv",CH5
 https://cdn6.163189.xyz/163189/ch5
-#EXTINF:-1 tvg-name="Channel 8" group-title="🇭🇰mytv",CH8
+#EXTINF:-1 tvg-name="Channel 8" group-title="mytv",CH8
 https://cdn6.163189.xyz/163189/ch8
-#EXTINF:-1 tvg-name="Channel U" group-title="🇭🇰mytv",CHU
+#EXTINF:-1 tvg-name="Channel U" group-title="mytv",CHU
 https://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-name="龍華電影" group-title="🇭🇰mytv",龍華電影
+#EXTINF:-1 tvg-name="龍華電影" group-title="mytv",龍華電影
 https://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-name="龍華經典" group-title="🇭🇰mytv",龍華經典
+#EXTINF:-1 tvg-name="龍華經典" group-title="mytv",龍華經典
 https://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-name="龍華偶像" group-title="🇭🇰mytv",龍華偶像
+#EXTINF:-1 tvg-name="龍華偶像" group-title="mytv",龍華偶像
 https://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-name="龍華日韓" group-title="🇭🇰mytv",龍華日韓
+#EXTINF:-1 tvg-name="龍華日韓" group-title="mytv",龍華日韓
 https://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-name="龍華戲劇" group-title="🇭🇰mytv",龍華戲劇
+#EXTINF:-1 tvg-name="龍華戲劇" group-title="mytv",龍華戲劇
 https://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-name="金光布袋戲" group-title="🇭🇰mytv",金光布袋戲
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戲
 https://o11.163189.xyz/stream/live/jgbdx/
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🇭🇰mytv",華麗翡翠台
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台
 https://cdn6.163189.xyz/163189/hlfct
-#EXTINF:-1 tvg-name="TVB亞洲武俠" group-title="🇭🇰mytv",TVB亞洲武俠
+#EXTINF:-1 tvg-name="TVB亞洲武俠" group-title="mytv",TVB亞洲武俠
 https://cdn6.163189.xyz/163189/yzwx
-#EXTINF:-1 tvg-name="娛樂新聞台" group-title="🇭🇰mytv",TVB娛樂新聞台
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娛樂新聞台
 https://cdn6.163189.xyz/163189/ylxw
-#EXTINF:-1 tvg-name="無線新聞" group-title="🇭🇰mytv",無線新聞台
+#EXTINF:-1 tvg-name="無線新聞" group-title="mytv",無線新聞台
 https://cdn6.163189.xyz/163189/wxxwt
-#EXTINF:-1 tvg-name="TVB星河" group-title="🇭🇰mytv",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 https://cdn6.163189.xyz/163189/tvbxh
-#EXTINF:-1 tvg-name="海峽衛視" group-title="🇭🇰mytv",海峽衛視
+#EXTINF:-1 tvg-name="海峽衛視" group-title="mytv",海峽衛視
 https://cdn10.163189.xyz/163189/hxws/
-#EXTINF:-1 tvg-name="TVB星河" group-title="🇭🇰mytv",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 https://cdn10.163189.xyz/163189/xinghe/
-#EXTINF:-1 tvg-name="天映新加坡" group-title="🇭🇰mytv",天映新加坡
+#EXTINF:-1 tvg-name="天映新加坡" group-title="mytv",天映新加坡
 https://cdn10.163189.xyz/163189/typd/
-#EXTINF:-1 tvg-name="天映經典" group-title="🇭🇰mytv",天映經典
+#EXTINF:-1 tvg-name="天映經典" group-title="mytv",天映經典
 https://cdn10.163189.xyz/163189/ccm/
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🇭🇰mytv",華麗翡翠台
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台
 https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🇭🇰mytv",華麗翡翠台(硬字幕)
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台(硬字幕)
 https://cdn6.163189.xyz/163189/jade
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🇭🇰mytv",華麗翡翠台(新加坡)
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",華麗翡翠台(新加坡)
 https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="AOD" group-title="🇭🇰mytv",Astro AOD
+#EXTINF:-1 tvg-name="AOD" group-title="mytv",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="AEC" group-title="🇭🇰mytv",Astro AEC
+#EXTINF:-1 tvg-name="AEC" group-title="mytv",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-name="QJ" group-title="🇭🇰mytv",Astro QJ
+#EXTINF:-1 tvg-name="QJ" group-title="mytv",Astro QJ
 https://o11.163189.xyz/stream/live/qj/
-#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="🇭🇰mytv",Astro歡喜台
+#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="mytv",Astro歡喜台
 https://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-name="iQIYI" group-title="🇭🇰mytv",愛奇藝
+#EXTINF:-1 tvg-name="iQIYI" group-title="mytv",愛奇藝
 https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="天映馬來西亞" group-title="🇭🇰mytv",天映頻道
+#EXTINF:-1 tvg-name="天映馬來西亞" group-title="mytv",天映頻道
 https://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 tvg-name="天映經典" group-title="🇭🇰mytv",天映經典
+#EXTINF:-1 tvg-name="天映經典" group-title="mytv",天映經典
 https://o11.163189.xyz/stream/live/ccm/
-#EXTINF:-1 tvg-name="TVB星河" group-title="🇭🇰mytv",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="千禧經典台" group-title="🇭🇰mytv",千禧經典台
+#EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧經典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="翡翠台" group-title="🇭🇰mytv",翡翠台(WebVTT字幕)
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(WebVTT字幕)
 https://cdn10.163189.xyz/163189/fct/
-#EXTINF:-1 tvg-name="明珠台" group-title="🇭🇰mytv",明珠台(WebVTT字幕)
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(WebVTT字幕)
 https://cdn10.163189.xyz/163189/mzt/
-#EXTINF:-1 tvg-name="TVB Plus" group-title="🇭🇰mytv",TVB Plus(WebVTT字幕)
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(WebVTT字幕)
 https://cdn10.163189.xyz/163189/tvbp/
-#EXTINF:-1 tvg-name="黃金華劇台" group-title="🇭🇰mytv",黃金華劇台(WebVTT字幕)
+#EXTINF:-1 tvg-name="黃金華劇台" group-title="mytv",黃金華劇台(WebVTT字幕)
 https://cdn10.163189.xyz/163189/hjhjt/
-#EXTINF:-1 tvg-name="CCTV1" group-title="🇭🇰mytv",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV2" group-title="🇭🇰mytv",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
-#EXTINF:-1 tvg-name="CCTV3" group-title="🇭🇰mytv",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" group-title="mytv",CCTV3
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
-#EXTINF:-1 tvg-name="CCTV4" group-title="🇭🇰mytv",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-#EXTINF:-1 tvg-name="CCTV5" group-title="🇭🇰mytv",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5+" group-title="🇭🇰mytv",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV6" group-title="🇭🇰mytv",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
-#EXTINF:-1 tvg-name="CCTV7" group-title="🇭🇰mytv",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
-#EXTINF:-1 tvg-name="CCTV8" group-title="🇭🇰mytv",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 tvg-name="CCTV9" group-title="🇭🇰mytv",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV10" group-title="🇭🇰mytv",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" group-title="mytv",CCTV10
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
-#EXTINF:-1 tvg-name="CCTV11" group-title="🇭🇰mytv",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" group-title="mytv",CCTV11
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
-#EXTINF:-1 tvg-name="CCTV12" group-title="🇭🇰mytv",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" group-title="mytv",CCTV12
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV13" group-title="🇭🇰mytv",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 tvg-name="CCTV14" group-title="🇭🇰mytv",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" group-title="mytv",CCTV14
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
-#EXTINF:-1 tvg-name="CCTV15" group-title="🇭🇰mytv",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" group-title="mytv",CCTV15
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
-#EXTINF:-1 tvg-name="CCTV16" group-title="🇭🇰mytv",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-#EXTINF:-1 tvg-name="CCTV17" group-title="🇭🇰mytv",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" group-title="mytv",CCTV17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
-#EXTINF:-1 tvg-name="重溫經典" group-title="🇭🇰mytv",重溫經典
+#EXTINF:-1 tvg-name="重溫經典" group-title="mytv",重溫經典
 https://cdn16.163189.xyz/163189/cwjd
-#EXTINF:-1 tvg-name="廣州綜合" group-title="🇭🇰mytv",廣州綜合
+#EXTINF:-1 tvg-name="廣州綜合" group-title="mytv",廣州綜合
 https://cdn16.163189.xyz/163189/gzzh
-#EXTINF:-1 tvg-name="廣州新聞" group-title="🇭🇰mytv",廣州新聞
+#EXTINF:-1 tvg-name="廣州新聞" group-title="mytv",廣州新聞
 https://cdn16.163189.xyz/163189/gzxw
-#EXTINF:-1 tvg-name="南國都市4K" group-title="🇭🇰mytv",廣州南國都市
+#EXTINF:-1 tvg-name="南國都市4K" group-title="mytv",廣州南國都市
 https://cdn15.163189.xyz/163189/ngds
-#EXTINF:-1 tvg-name="五星體育" group-title="🇭🇰mytv",五星體育
+#EXTINF:-1 tvg-name="五星體育" group-title="mytv",五星體育
 https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="民視影劇台" group-title="🇭🇰mytv",民視影劇台
+#EXTINF:-1 tvg-name="民視影劇台" group-title="mytv",民視影劇台
 https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
-#EXTINF:-1 tvg-name="公視戲劇" group-title="🇭🇰mytv",公視戲劇
+#EXTINF:-1 tvg-name="公視戲劇" group-title="mytv",公視戲劇
 https://cdn12.178.indevs.in/163189/2973b910e7719c08
-#EXTINF:-1 tvg-name="采昌影劇台" group-title="🇭🇰mytv",采昌影劇台
+#EXTINF:-1 tvg-name="采昌影劇台" group-title="mytv",采昌影劇台
 https://cdn12.178.indevs.in/163189/0a6204ed0261460c
-#EXTINF:-1 tvg-name="靖天映畫" group-title="🇭🇰mytv",靖天映畫
+#EXTINF:-1 tvg-name="靖天映畫" group-title="mytv",靖天映畫
 https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-#EXTINF:-1 tvg-name="靖天戲劇台" group-title="🇭🇰mytv",靖天戲劇台
+#EXTINF:-1 tvg-name="靖天戲劇台" group-title="mytv",靖天戲劇台
 https://cdn12.178.indevs.in/163189/177d541552f78003
-#EXTINF:-1 tvg-name="靖天電影台" group-title="🇭🇰mytv",靖天電影台
+#EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天電影台
 https://cdn12.178.indevs.in/163189/ed33509e03e78c7a
-#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="🇭🇰mytv",靖洋戲劇台
+#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戲劇台
 https://cdn12.178.indevs.in/163189/25084ef5a2662aad
-#EXTINF:-1 tvg-name="影迷數位電影台" group-title="🇭🇰mytv",影迷數位電影台
+#EXTINF:-1 tvg-name="影迷數位電影台" group-title="mytv",影迷數位電影台
 https://cdn12.178.indevs.in/163189/a643783ec587540e
-#EXTINF:-1 tvg-name="amc電影台" group-title="🇭🇰mytv",amc電影台
+#EXTINF:-1 tvg-name="amc電影台" group-title="mytv",amc電影台
 https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
-#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="🇭🇰mytv",CinemaWorld
+#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="mytv",CinemaWorld
 https://cdn12.178.indevs.in/163189/6086cfe7a9756110
-#EXTINF:-1 tvg-name="My Cinema Europe" group-title="🇭🇰mytv",My Cinema Europe
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="mytv",My Cinema Europe
 https://cdn12.178.indevs.in/163189/5bda99f1c049edef
-#EXTINF:-1 tvg-name="經典電影台" group-title="🇭🇰mytv",經典電影台
+#EXTINF:-1 tvg-name="經典電影台" group-title="mytv",經典電影台
 https://cdn12.178.indevs.in/163189/61b8ea35ffce4630
-#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="🇭🇰mytv",CMusic
+#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="mytv",CMusic
 https://cdn12.178.indevs.in/163189/d396cb84b6c89889
-#EXTINF:-1 tvg-name="DreamWorks" group-title="🇭🇰mytv",DreamWorks夢工廠動畫
+#EXTINF:-1 tvg-name="DreamWorks" group-title="mytv",DreamWorks夢工廠動畫
 https://cdn12.178.indevs.in/163189/10395eb942c5a9b9
-#EXTINF:-1 tvg-name="精選動漫台" group-title="🇭🇰mytv",精選動漫台
+#EXTINF:-1 tvg-name="精選動漫台" group-title="mytv",精選動漫台
 https://cdn12.178.indevs.in/163189/e1d66f74bd2d4894
-#EXTINF:-1 tvg-name="金光布袋戲" group-title="🇭🇰mytv",金光布袋戲
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戲
 https://cdn12.178.indevs.in/163189/5479c245d9d580b5
-#EXTINF:-1 tvg-name="TVB Plus" group-title="🇭🇰mytv",TVB Plus
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus
 https://smt.1678520.xyz/163189/tvbp
-#EXTINF:-1 tvg-name="緯來電影台" group-title="🇭🇰mytv",緯來電影台
+#EXTINF:-1 tvg-name="緯來電影台" group-title="mytv",緯來電影台
 https://smt.1678520.xyz/163189/wldy
-#EXTINF:-1 tvg-name="緯來戲劇台" group-title="🇭🇰mytv",緯來戲劇台
+#EXTINF:-1 tvg-name="緯來戲劇台" group-title="mytv",緯來戲劇台
 https://smt.1678520.xyz/163189/wlxj
-#EXTINF:-1 tvg-name="緯來體育台" group-title="🇭🇰mytv",緯來體育台
+#EXTINF:-1 tvg-name="緯來體育台" group-title="mytv",緯來體育台
 https://smt.1678520.xyz/163189/wlty
-#EXTINF:-1 tvg-name="龍祥時代" group-title="🇭🇰mytv",龍祥時代
+#EXTINF:-1 tvg-name="龍祥時代" group-title="mytv",龍祥時代
 https://smt.1678520.xyz/163189/lxsd
-#EXTINF:-1 tvg-name="東森電影" group-title="🇭🇰mytv",東森電影
+#EXTINF:-1 tvg-name="東森電影" group-title="mytv",東森電影
 https://smt.1678520.xyz/163189/dsdy
-#EXTINF:-1 tvg-name="東森戲劇" group-title="🇭🇰mytv",東森戲劇
+#EXTINF:-1 tvg-name="東森戲劇" group-title="mytv",東森戲劇
 https://smt.1678520.xyz/163189/dsxj
-#EXTINF:-1 tvg-name="東森洋片" group-title="🇭🇰mytv",東森洋片
+#EXTINF:-1 tvg-name="東森洋片" group-title="mytv",東森洋片
 https://smt.1678520.xyz/163189/dsyp
 
 
+
+#########################################
+             體育世界
+#########################################
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/tubi_epg.xml"
+
+
+
+
+#EXTINF:-1 tvg-name="SLY SPORTS F1 HD" group-title="體育世界",SLY SPORTS F1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2200.ts
+#EXTINF:-1 tvg-name="SLY SPRTS TENNIS" group-title="體育世界",SLY SPRTS TENNIS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4956.ts
+
+#EXTINF:-1 tvg-name="Varzish Sport HD" group-title="體育世界",Varzish Sport HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1135.ts
+
+#EXTINF:-1 tvg-name="ESPN US HD" group-title="體育世界",ESPN US HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8057.ts
+#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="體育世界",ESPN 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8058.ts
+#EXTINF:-1 tvg-name="Tennis HD" group-title="體育世界",Tennis HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1282.ts
+#EXTINF:-1 tvg-name="TSN 1 HD" group-title="體育世界",TSN 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
+#EXTINF:-1 tvg-name="TSN 2 HD" group-title="體育世界",TSN 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
+#EXTINF:-1 tvg-name="TSN 3 HD" group-title="體育世界",TSN 3 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
+#EXTINF:-1 tvg-name="TSN 4 HD" group-title="體育世界",TSN 4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
+#EXTINF:-1 tvg-name="SPORT TV 1" group-title="體育世界",SPORT TV 1
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8055.ts
+#EXTINF:-1 tvg-name="SPORT TV 2" group-title="體育世界",SPORT TV 2
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4957.ts
+#EXTINF:-1 tvg-name="EURO SPRT 1 HD" group-title="體育世界",EURO SPRT 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 1 US" group-title="體育世界",BEIN Sprts 1 US
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1955.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 1HD EN" group-title="體育世界",BEIN Sprts 1HD EN
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2243.ts
+#EXTINF:-1 tvg-name="BEIN SPRTS 2HD EN" group-title="體育世界",BEIN SPRTS 2HD EN
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/924.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 3HD EN" group-title="體育世界",BEIN Sprts 3HD EN
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3906.ts
+#EXTINF:-1 tvg-name="BEIN Sprts Premium 1 HD" group-title="體育世界",BEIN Sprts Premium 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2246.ts
+#EXTINF:-1 tvg-name="BEIN Sprts premium2 HD" group-title="體育世界",BEIN Sprts premium2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2245.ts
+#EXTINF:-1 tvg-name="BEIN Sprts Premium 3HD" group-title="體育世界",BEIN Sprts Premium 3HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2242.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 1 HD" group-title="體育世界",BEIN Sprts 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2253.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 2 HD" group-title="體育世界",BEIN Sprts 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3058.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 3 HD" group-title="體育世界",BEIN Sprts 3 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3059.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 4HD" group-title="體育世界",BEIN Sprts 4HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2250.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 5HD" group-title="體育世界",BEIN Sprts 5HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2249.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 6HD" group-title="體育世界",BEIN Sprts 6HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2248.ts
+#EXTINF:-1 tvg-name="BEIN Sprts 7HD" group-title="體育世界",BEIN Sprts 7HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2247.ts
+#EXTINF:-1 tvg-name="FLOW SPORTS" group-title="體育世界",FLOW SPORTS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/503.ts
+#EXTINF:-1 tvg-name="US FOX SPRTS 1 HD" group-title="體育世界",US FOX SPRTS 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1306.ts
+#EXTINF:-1 tvg-name="US FOX SPRTS 2 HD" group-title="體育世界",US FOX SPRTS 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
+#EXTINF:-1 tvg-name="FOX SPORTS USA" group-title="體育世界",FOX SPORTS USA
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8050.ts
+#EXTINF:-1 tvg-name="WWE NETWORK" group-title="體育世界",WWE NETWORK
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/526.ts
+#EXTINF:-1 tvg-name="FIGHT SPORTS" group-title="體育世界",FIGHT SPORTS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1430.ts
+#EXTINF:-1 tvg-name="FUBO SPORTS 1" group-title="體育世界",FUBO SPORTS 1
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8051.ts
+#EXTINF:-1 tvg-name="FUBO SPORTS 2" group-title="體育世界",FUBO SPORTS 2
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8052.ts
+#EXTINF:-1 tvg-name="ESPN US HD" group-title="體育世界",ESPN US HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8057.ts
+#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="體育世界",ESPN 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8058.ts
+#EXTINF:-1 tvg-name="FUBO SPORTS 1" group-title="體育世界",FUBO SPORTS 1
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8051.ts
+#EXTINF:-1 tvg-name="FUBO SPORTS 2" group-title="體育世界",FUBO SPORTS 2
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8052.ts
+#EXTINF:-1 tvg-name="NBC UNIVERSO" group-title="體育世界",NBC UNIVERSO
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8053.ts
+#EXTINF:-1 tvg-name="NBC SPORTS HD" group-title="體育世界",NBC SPORTS HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1316.ts
+
+
+
+
+
+
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802455.png",True Sports 1
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499966.png",True Sports 2
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802480.png",True Sports 3
+https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847910.png",True Sports 5
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847921.png",True Sports 7
+https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499681.png",true Premire football 3
+https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",Monomax 1
+https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
+
+
+#EXTINF:-1 group-title="體育世界",博斯運動1
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang07/index.m3u8
+#EXTINF:-1 group-title="體育世界",博斯運動2
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang08/index.m3u8
+#EXTINF:-1 group-title="體育世界",博斯無限1
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang10/index.m3u8
+#EXTINF:-1 group-title="體育世界",博斯無限2
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang13/index.m3u8
+#EXTINF:-1 group-title="體育世界",博斯高球1
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang05/index.m3u8
+#EXTINF:-1 group-title="體育世界",博斯高球2
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang06/index.m3u8
+#EXTINF:-1 group-title="體育世界",博斯網球
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8
+#EXTINF:-1 group-title="體育世界",博斯魅力
+https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
+#EXTINF:-1 group-title="體育世界",緯來日本
+https://cdn.19891230.eu.org/api/VL-Japan/index.m3u8
+#EXTINF:-1 group-title="體育世界",緯來體育
+https://cdn.19891230.eu.org/api/VL-Sports/index.m3u8
+#EXTINF:-1 group-title="體育世界",緯來電影
+https://cdn.19891230.eu.org/api/VL-Movies/index.m3u8
+#EXTINF:-1 group-title="體育世界",緯來綜合
+https://cdn.19891230.eu.org/api/VL-ONTV/index.m3u8
+#EXTINF:-1 group-title="體育世界",緯來戲劇
+https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
+#EXTINF:-1 group-title="體育世界",緯來育樂
+https://cdn.19891230.eu.org/api/VL-E/index.m3u8
+#EXTINF:-1 group-title="體育世界",龍祥時代
+https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
+
+
+#EXTINF:-1 group-title="體育世界",DAZN_4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 group-title="體育世界",DAZN_3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1 group-title="體育世界",DAZN_2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_NBA
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_NFL_NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_TENNIS
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_GOLF
+http://23.237.104.106:8080/USA_GOLF/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_BEIN
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 group-title="體育世界",USA_ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 
 
