@@ -228,6 +228,22 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 #########################################
 
 
+#EXTINF:-1 group-title="台灣",ELTA體育1台
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports1
+#EXTINF:-1 group-title="台灣",ELTA體育2台
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports2
+#EXTINF:-1 group-title="台灣",ELTA體育3台
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports2
+#EXTINF:-1 group-title="台灣",ELTA體育4台
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports4
+#EXTINF:-1 group-title="台灣",ELTA體育MAX1
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax1
+#EXTINF:-1 group-title="台灣",ELTA體育MAX2
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax2
+#EXTINF:-1 group-title="台灣",ELTA體育MAX3
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax3
+#EXTINF:-1 group-title="台灣",ELTA體育MAX4
+http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax4
 #EXTINF:-1 group-title="台灣",中視
 http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 group-title="台灣",中視新聞
