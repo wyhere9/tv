@@ -228,22 +228,22 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 #########################################
 
 
-#EXTINF:-1 group-title="台灣",ELTA體育1台
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports1
-#EXTINF:-1 group-title="台灣",ELTA體育2台
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports2
-#EXTINF:-1 group-title="台灣",ELTA體育3台
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports3
-#EXTINF:-1 group-title="台灣",ELTA體育4台
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltasports4
-#EXTINF:-1 group-title="台灣",ELTA體育MAX1
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax1
-#EXTINF:-1 group-title="台灣",ELTA體育MAX2
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax2
-#EXTINF:-1 group-title="台灣",ELTA體育MAX3
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax3
-#EXTINF:-1 group-title="台灣",ELTA體育MAX4
-http://atryffad.usa3.345123.xyz/jrw.php?id=eltaspmax4
+#EXTINF:-1 tvg-id="stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e" tvg-name="愛爾達體育1台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000001744" group-title="hami (export)",愛爾達體育1台
+http://61.61.67.208:5678/live/stream-b82d67b5-7416-4bc8-8be9-3f76b0e5de0e/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+#EXTINF:-1 tvg-id="stream-fcf203ba-305f-4bc9-9113-e5e15e34242b" tvg-name="愛爾達體育2台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000001743" group-title="hami (export)",愛爾達體育2台
+http://61.61.67.208:5678/live/stream-fcf203ba-305f-4bc9-9113-e5e15e34242b/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+#EXTINF:-1 tvg-id="stream-dd933970-033b-4552-8db7-7aa78f8572fe" tvg-name="愛爾達體育3台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000001745" group-title="hami (export)",愛爾達體育3台
+http://61.61.67.208:5678/live/stream-dd933970-033b-4552-8db7-7aa78f8572fe/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+#EXTINF:-1 tvg-id="stream-527da6a7-8ed8-4169-9935-7708eee0f742" tvg-name="愛爾達體育4台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000002055" group-title="hami (export)",愛爾達體育4台
+http://61.61.67.208:5678/live/stream-527da6a7-8ed8-4169-9935-7708eee0f742/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+#EXTINF:-1 tvg-id="stream-9f8aba0e-7c2d-4e61-bdb9-3c5a51b1cbe6" tvg-name="愛爾達體育MAX1台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000001853" group-title="hami (export)",愛爾達體育MAX1台
+http://61.61.67.208:5678/live/stream-9f8aba0e-7c2d-4e61-bdb9-3c5a51b1cbe6/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+#EXTINF:-1 tvg-id="stream-127c03f1-d3fd-4b8f-95f3-cfc1dfae5e9c" tvg-name="愛爾達體育MAX2台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000001854" group-title="hami (export)",愛爾達體育MAX2台
+http://61.61.67.208:5678/live/stream-127c03f1-d3fd-4b8f-95f3-cfc1dfae5e9c/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+#EXTINF:-1 tvg-id="stream-5475bcf5-4a9f-4634-92a4-126a660f3a63" tvg-name="愛爾達體育MAX3台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000001855" group-title="hami (export)",愛爾達體育MAX3台
+http://61.61.67.208:5678/live/stream-5475bcf5-4a9f-4634-92a4-126a660f3a63/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
+#EXTINF:-1 tvg-id="stream-d1b7a56f-deb5-4674-8dde-0b6c984805ef" tvg-name="愛爾達體育MAX4台" tvg-logo="http://61.61.67.208:8006/hami/logo/OTT_LIVE_0000001856" group-title="hami (export)",愛爾達體育MAX4台
+http://61.61.67.208:5678/live/stream-d1b7a56f-deb5-4674-8dde-0b6c984805ef/index.m3u8?u=admin&p=fa107493914b614788470be2a8016a897ac5cb28b2f50d8a2fa64bcf9a0c47cc
 #EXTINF:-1 group-title="台灣",中視
 http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 group-title="台灣",中視新聞
