@@ -1639,113 +1639,178 @@ https://smt.1678520.xyz/163189/dsyp
 
 
 
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+https://live.chinacert.cftest5.cn/cnmg/live/641886683
+#EXTINF:-1 group-title="DE ✨ WM 2026",台视HD
+http://211.72.174.95:8112/0.ts
 
-#EXTINF:-1 tvg-name="SLY SPORTS F1 HD" group-title="體育世界",SLY SPORTS F1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2200.ts
-#EXTINF:-1 tvg-name="SLY SPRTS TENNIS" group-title="體育世界",SLY SPRTS TENNIS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4956.ts
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5+
+http://v.mgytv.top/TVBoxOSC/wj.php?id=CCTV5p
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV 5
+https://cdn16.163189.xyz/163189/cctv5
 
-#EXTINF:-1 tvg-name="Varzish Sport HD" group-title="體育世界",Varzish Sport HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1135.ts
+#EXTINF:-1 group-title="DE ✨ WM 2026",澳门体育
+https://live.666666.zip/stream/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",ELTA体育1
+https://live.666666.zip/stream/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
 
-#EXTINF:-1 tvg-name="ESPN US HD" group-title="體育世界",ESPN US HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8057.ts
-#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="體育世界",ESPN 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8058.ts
-#EXTINF:-1 tvg-name="Tennis HD" group-title="體育世界",Tennis HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1282.ts
-#EXTINF:-1 tvg-name="TSN 1 HD" group-title="體育世界",TSN 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
-#EXTINF:-1 tvg-name="TSN 2 HD" group-title="體育世界",TSN 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
-#EXTINF:-1 tvg-name="TSN 3 HD" group-title="體育世界",TSN 3 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
-#EXTINF:-1 tvg-name="TSN 4 HD" group-title="體育世界",TSN 4 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
-#EXTINF:-1 tvg-name="SPORT TV 1" group-title="體育世界",SPORT TV 1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8055.ts
-#EXTINF:-1 tvg-name="SPORT TV 2" group-title="體育世界",SPORT TV 2
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4957.ts
-#EXTINF:-1 tvg-name="EURO SPRT 1 HD" group-title="體育世界",EURO SPRT 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 1 US" group-title="體育世界",BEIN Sprts 1 US
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1955.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 1HD EN" group-title="體育世界",BEIN Sprts 1HD EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2243.ts
-#EXTINF:-1 tvg-name="BEIN SPRTS 2HD EN" group-title="體育世界",BEIN SPRTS 2HD EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/924.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 3HD EN" group-title="體育世界",BEIN Sprts 3HD EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3906.ts
-#EXTINF:-1 tvg-name="BEIN Sprts Premium 1 HD" group-title="體育世界",BEIN Sprts Premium 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2246.ts
-#EXTINF:-1 tvg-name="BEIN Sprts premium2 HD" group-title="體育世界",BEIN Sprts premium2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2245.ts
-#EXTINF:-1 tvg-name="BEIN Sprts Premium 3HD" group-title="體育世界",BEIN Sprts Premium 3HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2242.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 1 HD" group-title="體育世界",BEIN Sprts 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2253.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 2 HD" group-title="體育世界",BEIN Sprts 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3058.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 3 HD" group-title="體育世界",BEIN Sprts 3 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3059.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 4HD" group-title="體育世界",BEIN Sprts 4HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2250.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 5HD" group-title="體育世界",BEIN Sprts 5HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2249.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 6HD" group-title="體育世界",BEIN Sprts 6HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2248.ts
-#EXTINF:-1 tvg-name="BEIN Sprts 7HD" group-title="體育世界",BEIN Sprts 7HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2247.ts
-#EXTINF:-1 tvg-name="FLOW SPORTS" group-title="體育世界",FLOW SPORTS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/503.ts
-#EXTINF:-1 tvg-name="US FOX SPRTS 1 HD" group-title="體育世界",US FOX SPRTS 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1306.ts
-#EXTINF:-1 tvg-name="US FOX SPRTS 2 HD" group-title="體育世界",US FOX SPRTS 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
-#EXTINF:-1 tvg-name="FOX SPORTS USA" group-title="體育世界",FOX SPORTS USA
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8050.ts
-#EXTINF:-1 tvg-name="WWE NETWORK" group-title="體育世界",WWE NETWORK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/526.ts
-#EXTINF:-1 tvg-name="FIGHT SPORTS" group-title="體育世界",FIGHT SPORTS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1430.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 1" group-title="體育世界",FUBO SPORTS 1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8051.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 2" group-title="體育世界",FUBO SPORTS 2
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8052.ts
-#EXTINF:-1 tvg-name="ESPN US HD" group-title="體育世界",ESPN US HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8057.ts
-#EXTINF:-1 tvg-name="ESPN 2 HD" group-title="體育世界",ESPN 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8058.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 1" group-title="體育世界",FUBO SPORTS 1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8051.ts
-#EXTINF:-1 tvg-name="FUBO SPORTS 2" group-title="體育世界",FUBO SPORTS 2
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8052.ts
-#EXTINF:-1 tvg-name="NBC UNIVERSO" group-title="體育世界",NBC UNIVERSO
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/8053.ts
-#EXTINF:-1 tvg-name="NBC SPORTS HD" group-title="體育世界",NBC SPORTS HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1316.ts
+
+#EXTINF:-1 group-title="DE ✨ WM 2026",咪咕频道
+https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",广东体育
+https://live.wxinxi.com/live/66598858_hp1c4fyp3xqzgn9huoj2v8dbaa92nvpm.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",CCTV5
+https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",澳门体育
+https://live.wxinxi.com/live/65619268_8jt5ybezgxvrawz0xpmx12elorokydg5.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",ELTA体育1
+https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8
+#EXTINF:-1 group-title="DE ✨ WM 2026",NOW618
+https://live.wxinxi.com/live/48439940.m3u8
 
 
 
 
 
 
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802455.png",True Sports 1
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport1_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499966.png",True Sports 2
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport2_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664802480.png",True Sports 3
-https://love.rycasevo.workers.dev:443/vx-origin/hd-tsport3_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847910.png",True Sports 5
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport5_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664847921.png",True Sports 7
-https://love.rycasevo.workers.dev:443/vx-origin/sd-tsport7_720/playlist.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://dookeela4.live/uploads/1664499681.png",true Premire football 3
-https://love.46wur1l2ob.workers.dev/vx-origin/epl-3_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ᴅᴇ | FUßBALL.TV 1 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Germany_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴅᴇ | FUßBALL.TV 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919176
+#EXTINF:-1 tvg-id="" tvg-name="ᴅᴇ | FUßBALL.TV 2 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Germany_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴅᴇ | FUßBALL.TV 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/920940
+#EXTINF:-1 tvg-id="" tvg-name="ᴅᴇ | FUßBALL.TV 3 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Germany_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴅᴇ | FUßBALL.TV 3 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/920938
+#EXTINF:-1 tvg-id="" tvg-name="ᴅᴇ | DAS ERSTE ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Germany_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴅᴇ | DAS ERSTE ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919299
+#EXTINF:-1 tvg-id="" tvg-name="ᴅᴇ | ZDF ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Germany_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴅᴇ | ZDF ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919297
+#EXTINF:-1 tvg-id="" tvg-name="ᴛʀ | TRT 1 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Turkey_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴛʀ | TRT 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919295
+#EXTINF:-1 tvg-id="" tvg-name="ᴛʀ | TRT SPOR ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Turkey_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴛʀ | TRT SPOR ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919293
+#EXTINF:-1 tvg-id="" tvg-name="ᴛʀ | TRT SPOR YILDIZ ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Turkey_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴛʀ | TRT SPOR YILDIZ ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919291
+#EXTINF:-1 tvg-id="" tvg-name="ᴀᴛ | ORF 1 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Austria_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴀᴛ | ORF 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919289
+#EXTINF:-1 tvg-id="" tvg-name="ᴀᴛ | ORF 2 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Austria_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴀᴛ | ORF 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919287
+#EXTINF:-1 tvg-id="" tvg-name="ᴀᴛ | ORF SPORT ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Austria_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴀᴛ | ORF SPORT ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919285
+#EXTINF:-1 tvg-id="" tvg-name="ᴀᴛ | SERVUS TV ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Austria_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴀᴛ | SERVUS TV ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919283
+#EXTINF:-1 tvg-id="" tvg-name="ᴄʜ | SRF 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Switzerland_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴄʜ | SRF 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919281
+#EXTINF:-1 tvg-id="" tvg-name="ᴄʜ | SRF 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Switzerland_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴄʜ | SRF 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919279
+#EXTINF:-1 tvg-id="" tvg-name="ᴄʜ | RTS 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Switzerland_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴄʜ | RTS 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919277
+#EXTINF:-1 tvg-id="" tvg-name="ᴄʜ | RSI LA 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Switzerland_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴄʜ | RSI LA 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919275
+#EXTINF:-1 tvg-id="" tvg-name="ᴘʟ | TVP 1 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Poland_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴘʟ | TVP 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919273
+#EXTINF:-1 tvg-id="" tvg-name="ᴘʟ | TVP 2 ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Poland_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴘʟ | TVP 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919271
+#EXTINF:-1 tvg-id="" tvg-name="ᴘʟ | TVP SPOR ʜᴅ" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Poland_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴘʟ | TVP SPOR ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919269
+#EXTINF:-1 tvg-id="" tvg-name="ɴʟ | NPO 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Netherlands_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɴʟ | NPO 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919267
+#EXTINF:-1 tvg-id="" tvg-name="ɴʟ | NPO 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Netherlands_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɴʟ | NPO 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919265
+#EXTINF:-1 tvg-id="" tvg-name="ɴʟ | NPO 3 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Netherlands_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɴʟ | NPO 3 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919263
+#EXTINF:-1 tvg-id="" tvg-name="ɪᴛ | RAI 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Italy_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɪᴛ | RAI 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919260
+#EXTINF:-1 tvg-id="" tvg-name="ɪᴛ | DAZN 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Italy_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɪᴛ | DAZN 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919258
+#EXTINF:-1 tvg-id="" tvg-name="ɪᴛ | DAZN 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Italy_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɪᴛ | DAZN 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919256
+#EXTINF:-1 tvg-id="" tvg-name="ʙᴇ | LA UNE ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Belgium_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʙᴇ | LA UNE ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919254
+#EXTINF:-1 tvg-id="" tvg-name="ʙᴇ | CANVAS ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Belgium_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʙᴇ | CANVAS ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919252
+#EXTINF:-1 tvg-id="" tvg-name="ʙᴇ | VRT 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Belgium_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʙᴇ | VRT 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919250
+#EXTINF:-1 tvg-id="" tvg-name="ᴘᴛ | RTP 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Portugal_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴘᴛ | RTP 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919248
+#EXTINF:-1 tvg-id="" tvg-name="ᴘᴛ | RTP 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Portugal_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴘᴛ | RTP 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919246
+#EXTINF:-1 tvg-id="" tvg-name="ᴘᴛ | SPORT TV 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Portugal_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴘᴛ | SPORT TV 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919244
+#EXTINF:-1 tvg-id="" tvg-name="ᴘᴛ | SIC ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Portugal_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴘᴛ | SIC ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919242
+#EXTINF:-1 tvg-id="" tvg-name="ꜰʀ | M6 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/France_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ꜰʀ | M6 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919240
+#EXTINF:-1 tvg-id="" tvg-name="ꜰʀ | BEIN SPORTS 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/France_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ꜰʀ | BEIN SPORTS 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919238
+#EXTINF:-1 tvg-id="" tvg-name="ꜰʀ | BEIN SPORTS 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/France_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ꜰʀ | BEIN SPORTS 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919236
+#EXTINF:-1 tvg-id="" tvg-name="ᴇs | LA 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Spain_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴇs | LA 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919234
+#EXTINF:-1 tvg-id="" tvg-name="ᴇs | LA 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Spain_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴇs | LA 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919232
+#EXTINF:-1 tvg-id="" tvg-name="ᴇs | TELEDEPORTE ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Spain_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴇs | TELEDEPORTE ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919230
+#EXTINF:-1 tvg-id="" tvg-name="ɢʀ | ERT 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Greece_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɢʀ | ERT 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919228
+#EXTINF:-1 tvg-id="" tvg-name="ɢʀ | ERT 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Greece_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ɢʀ | ERT 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919226
+#EXTINF:-1 tvg-id="" tvg-name="ᴜᴋ | ITV 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/England_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴜᴋ | ITV 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919222
+#EXTINF:-1 tvg-id="" tvg-name="ᴜᴋ | BBC 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/England_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴜᴋ | BBC 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919220
+#EXTINF:-1 tvg-id="" tvg-name="ᴜᴋ | BBC 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/England_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴜᴋ | BBC 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919218
+#EXTINF:-1 tvg-id="" tvg-name="ʀᴜ | MATCH TV ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Russia_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʀᴜ | MATCH TV ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919216
+#EXTINF:-1 tvg-id="" tvg-name="ʀᴜ | MATCH TV ARENA ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Russia_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʀᴜ | MATCH TV ARENA ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919214
+#EXTINF:-1 tvg-id="" tvg-name="ʀᴜ | MATCH TV PREMIER ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Russia_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʀᴜ | MATCH TV PREMIER ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919212
+#EXTINF:-1 tvg-id="" tvg-name="ʙɢ | BNT 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Bulgaria_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʙɢ | BNT 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919210
+#EXTINF:-1 tvg-id="" tvg-name="ʙɢ | BNT 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Bulgaria_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʙɢ | BNT 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919208
+#EXTINF:-1 tvg-id="" tvg-name="ʀᴏ | ANTENA 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Romania_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʀᴏ | ANTENA 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919204
+#EXTINF:-1 tvg-id="" tvg-name="ʀᴏ | ANTENA 3 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Romania_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʀᴏ | ANTENA 3 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919202
+#EXTINF:-1 tvg-id="" tvg-name="ʀᴏ | ANTENA STARS ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Romania_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʀᴏ | ANTENA STARS ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919200
+#EXTINF:-1 tvg-id="" tvg-name="ᴄᴢ | CT 1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Czech-Republic_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴄᴢ | CT 1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919198
+#EXTINF:-1 tvg-id="" tvg-name="ᴄᴢ | CT 2 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Czech-Republic_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴄᴢ | CT 2 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919196
+#EXTINF:-1 tvg-id="" tvg-name="ᴄᴢ | CT SPORT ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Czech-Republic_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ᴄᴢ | CT SPORT ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919194
+#EXTINF:-1 tvg-id="" tvg-name="ʜᴜ | M4 SPORT ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Hungary_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʜᴜ | M4 SPORT ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919192
+#EXTINF:-1 tvg-id="" tvg-name="ʜᴜ | M1 ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Hungary_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʜᴜ | M1 ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919190
+#EXTINF:-1 tvg-id="" tvg-name="ʜᴜ | DUNA TV ʜᴅ" tvg-logo="http://www.crossed-flag-pins.com/animated-flag-gif/gifs/Hungary_240-animated-flag-gifs.gif" group-title="DE ✨ WM 2026",ʜᴜ | DUNA TV ʜᴅ
+http://germanytv.live:8080/3xcjrjm6NM/DzwhKANAMt/919188
+
+
+
+
+
+
+#EXTINF:-1 group-title="體育世界",Eurosport2HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+
+
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",Monomax 1
-https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
-#EXTINF:-1 group-title="體育世界" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Ch-wowow_live.png/revision/latest/scale-to-width-down/250?cb=20200215064611",WOWOW Live
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=7
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776175.m3u8
+#EXTINF:-1 group-title="體育世界" tvg-logo="https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2",Monomax 2
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776176.m3u8
+
+
 
 
 #EXTINF:-1 group-title="體育世界",博斯運動1
@@ -1778,26 +1843,6 @@ https://cdn.19891230.eu.org/api/VL-Drama/index.m3u8
 https://cdn.19891230.eu.org/api/VL-E/index.m3u8
 #EXTINF:-1 group-title="體育世界",龍祥時代
 https://cdn.19891230.eu.org/api/LSTIME-Movie/index.m3u8
-
-
-#EXTINF:-1 group-title="體育世界",DAZN_4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 group-title="體育世界",DAZN_3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 group-title="體育世界",DAZN_2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_NBA
-http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_NFL_NETWORK
-http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_TENNIS
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_GOLF
-http://23.237.104.106:8080/USA_GOLF/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_BEIN
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 group-title="體育世界",USA_ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 
 
