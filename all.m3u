@@ -201,276 +201,6 @@ https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 
 
 
-#########################################
-          ENGLISH
-#########################################
-
-
-
-#EXTINF:-1 tvg-name="GB NEWS FHD" group-title="ENGLISH",GB NEWS FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/473.ts
-#EXTINF:-1 tvg-name="SLY NEWS FHD" group-title="ENGLISH",SLY NEWS FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/475.ts
-#EXTINF:-1 tvg-name="SlY ARTS FHD" group-title="ENGLISH",SlY ARTS FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1314.ts
-#EXTINF:-1 tvg-name="STAR MOVIES FHD" group-title="ENGLISH",STAR MOVIES FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/474.ts
-#EXTINF:-1 tvg-name="Sly Cinema Select FHD" group-title="ENGLISH",Sly Cinema Select FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/470.ts
-#EXTINF:-1 tvg-name="Sly CINEMA Sci-Fi & Hor FHD" group-title="ENGLISH",Sly CINEMA Sci-Fi & Hor FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/466.ts
-#EXTINF:-1 tvg-name="Sly Cinema Premiere FHD" group-title="ENGLISH",Sly Cinema Premiere FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/465.ts
-#EXTINF:-1 tvg-name="Sly Cinema Thriller FHD" group-title="ENGLISH",Sly Cinema Thriller FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/472.ts
-#EXTINF:-1 tvg-name="Sly Cinema Comedy FHD" group-title="ENGLISH",Sly Cinema Comedy FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/467.ts
-#EXTINF:-1 tvg-name="Sly Cinema Family FHD" group-title="ENGLISH",Sly Cinema Family FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/479.ts
-#EXTINF:-1 tvg-name="Sly Cinema Hits FHD" group-title="ENGLISH",Sly Cinema Hits FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1426.ts
-#EXTINF:-1 tvg-name="Sly Cinema Action FHD" group-title="ENGLISH",Sly Cinema Action FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/471.ts
-#EXTINF:-1 tvg-name="Sly Cinema Drama FHD" group-title="ENGLISH",Sly Cinema Drama FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/469.ts
-#EXTINF:-1 tvg-name="Sly Cinema Modern Great FHD" group-title="ENGLISH",Sly Cinema Modern Great FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/468.ts
-#EXTINF:-1 tvg-name="SLY WITNESS FHD" group-title="ENGLISH",SLY WITNESS FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1173.ts
-#EXTINF:-1 tvg-name="Sly  MAX FHD" group-title="ENGLISH",Sly  MAX FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1433.ts
-#EXTINF:-1 tvg-name="SLY SCI-FI FHD" group-title="ENGLISH",SLY SCI-FI FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4007.ts
-#EXTINF:-1 tvg-name="SLY CRIME FHD" group-title="ENGLISH",SLY CRIME FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1438.ts
-#EXTINF:-1 tvg-name="SLY COMEDY FHD" group-title="ENGLISH",SLY COMEDY FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1434.ts
-#EXTINF:-1 tvg-name="SLY ATLANTIC FHD" group-title="ENGLISH",SLY ATLANTIC FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1342.ts
-#EXTINF:-1 tvg-name="SYFY  US" group-title="ENGLISH",SYFY  US
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1429.ts
-#EXTINF:-1 tvg-name="BBC 1 FHD" group-title="ENGLISH",BBC 1 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/476.ts
-#EXTINF:-1 tvg-name="BBC 2 FHD" group-title="ENGLISH",BBC 2 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/921.ts
-#EXTINF:-1 tvg-name="BBC 3 FHD" group-title="ENGLISH",BBC 3 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1144.ts
-#EXTINF:-1 tvg-name="BBC 4 HD" group-title="ENGLISH",BBC 4 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1456.ts
-#EXTINF:-1 tvg-name="BBC ALBA FHD" group-title="ENGLISH",BBC ALBA FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/923.ts
-#EXTINF:-1 tvg-name="BBC PARLAMENT" group-title="ENGLISH",BBC PARLAMENT
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1427.ts
-#EXTINF:-1 tvg-name="CHANNEL 4 FHD" group-title="ENGLISH",CHANNEL 4 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/478.ts
-#EXTINF:-1 tvg-name="CHANNEL 5 FHD" group-title="ENGLISH",CHANNEL 5 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/494.ts
-#EXTINF:-1 tvg-name="ITV 1 FHD" group-title="ENGLISH",ITV 1 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/922.ts
-#EXTINF:-1 tvg-name="ITV 2 FHD" group-title="ENGLISH",ITV 2 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/920.ts
-#EXTINF:-1 tvg-name="ITV 3 FHD" group-title="ENGLISH",ITV 3 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/973.ts
-#EXTINF:-1 tvg-name="ITV 4 FHD" group-title="ENGLISH",ITV 4 FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/974.ts
-#EXTINF:-1 tvg-name="STV HD" group-title="ENGLISH",STV HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1176.ts
-#EXTINF:-1 tvg-name="ITV 1 +1" group-title="ENGLISH",ITV 1 +1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5015.ts
-#EXTINF:-1 tvg-name="ITV 2 +1" group-title="ENGLISH",ITV 2 +1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4008.ts
-#EXTINF:-1 tvg-name="Dmax +1" group-title="ENGLISH",Dmax +1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1313.ts
-#EXTINF:-1 tvg-name="IE: TG 4 HD" group-title="ENGLISH",IE: TG 4 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1175.ts
-#EXTINF:-1 tvg-name="IE: RTE 1 HD" group-title="ENGLISH",IE: RTE 1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/975.ts
-#EXTINF:-1 tvg-name="IE: RTE 2 HD" group-title="ENGLISH",IE: RTE 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/931.ts
-#EXTINF:-1 tvg-name="IE: S4C HD" group-title="ENGLISH",IE: S4C HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1330.ts
-#EXTINF:-1 tvg-name="IE: OIR TV" group-title="ENGLISH",IE: OIR TV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5013.ts
-#EXTINF:-1 tvg-name="IE: UTV HD" group-title="ENGLISH",IE: UTV HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1585.ts
-#EXTINF:-1 tvg-name="RTE NEWS" group-title="ENGLISH",RTE NEWS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1441.ts
-#EXTINF:-1 tvg-name="IE: Sly News Ireland" group-title="ENGLISH",IE: Sly News Ireland
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5010.ts
-#EXTINF:-1 tvg-name="UK: ETV 4" group-title="ENGLISH",UK: ETV 4
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1350.ts
-#EXTINF:-1 tvg-name="TNT HD" group-title="ENGLISH",TNT HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1343.ts
-#EXTINF:-1 tvg-name="Quest HD" group-title="ENGLISH",Quest HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1439.ts
-#EXTINF:-1 tvg-name="CHALLENGE TV" group-title="ENGLISH",CHALLENGE TV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1349.ts
-#EXTINF:-1 tvg-name="Comedy Central UK" group-title="ENGLISH",Comedy Central UK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/463.ts
-#EXTINF:-1 tvg-name="STAR ACTION FHD" group-title="ENGLISH",STAR ACTION FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1351.ts
-#EXTINF:-1 tvg-name="UK: Fashion TV" group-title="ENGLISH",UK: Fashion TV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1352.ts
-#EXTINF:-1 tvg-name="Sly History HD" group-title="ENGLISH",Sly History HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1450.ts
-#EXTINF:-1 tvg-name="Sly History 2 HD" group-title="ENGLISH",Sly History 2 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1452.ts
-#EXTINF:-1 tvg-name="Sly Nature FHD" group-title="ENGLISH",Sly Nature FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1458.ts
-#EXTINF:-1 tvg-name="Discovery Family FHD" group-title="ENGLISH",Discovery Family FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1457.ts
-#EXTINF:-1 tvg-name="Discovery HD" group-title="ENGLISH",Discovery HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/482.ts
-#EXTINF:-1 tvg-name="Animal planet" group-title="ENGLISH",Animal planet
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/485.ts
-#EXTINF:-1 tvg-name="National Geographic" group-title="ENGLISH",National Geographic
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/483.ts
-#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="ENGLISH",NAT GEO WILD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/486.ts
-#EXTINF:-1 tvg-name="Discovery Family" group-title="ENGLISH",Discovery Family
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1459.ts
-#EXTINF:-1 tvg-name="Travel channel HD" group-title="ENGLISH",Travel channel HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1312.ts
-#EXTINF:-1 tvg-name="Discovery Science" group-title="ENGLISH",Discovery Science
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1638.ts
-#EXTINF:-1 tvg-name="Movies Now HD" group-title="ENGLISH",Movies Now HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1428.ts
-#EXTINF:-1 tvg-name="STAR MOVIES HD" group-title="ENGLISH",STAR MOVIES HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1169.ts
-#EXTINF:-1 tvg-name="Star movies Select" group-title="ENGLISH",Star movies Select
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/745.ts
-#EXTINF:-1 tvg-name="HBO HD" group-title="ENGLISH",HBO HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/947.ts
-#EXTINF:-1 tvg-name="MNX HD" group-title="ENGLISH",MNX HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/746.ts
-#EXTINF:-1 tvg-name="Colors infinity HD" group-title="ENGLISH",Colors infinity HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/480.ts
-#EXTINF:-1 tvg-name="sony pix FHD" group-title="ENGLISH",sony pix FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1062.ts
-#EXTINF:-1 tvg-name="AND FLIX HD" group-title="ENGLISH",AND FLIX HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/744.ts
-#EXTINF:-1 tvg-name="Zee Cafe HD" group-title="ENGLISH",Zee Cafe HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1322.ts
-#EXTINF:-1 tvg-name="& PRIVE HD" group-title="ENGLISH",& PRIVE HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/481.ts
-#EXTINF:-1 tvg-name="MN+ HD" group-title="ENGLISH",MN+ HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1170.ts
-#EXTINF:-1 tvg-name="ROMEDY NOW HD" group-title="ENGLISH",ROMEDY NOW HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1447.ts
-#EXTINF:-1 tvg-name="AMC HD" group-title="ENGLISH",AMC HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1442.ts
-#EXTINF:-1 tvg-name="UK: E4 HD" group-title="ENGLISH",UK: E4 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1338.ts
-#EXTINF:-1 tvg-name="FILM 4 HD" group-title="ENGLISH",FILM 4 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1455.ts
-#EXTINF:-1 tvg-name="UK: PICK TV HD" group-title="ENGLISH",UK: PICK TV HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1058.ts
-#EXTINF:-1 tvg-name="UK: 5 usa HD" group-title="ENGLISH",UK: 5 usa HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1341.ts
-#EXTINF:-1 tvg-name="UK: 5 Star HD" group-title="ENGLISH",UK: 5 Star HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1340.ts
-#EXTINF:-1 tvg-name="GOLD UK HD" group-title="ENGLISH",GOLD UK HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1453.ts
-#EXTINF:-1 tvg-name="UK: 4 seven" group-title="ENGLISH",UK: 4 seven
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1339.ts
-#EXTINF:-1 tvg-name="F4 HD" group-title="ENGLISH",F4 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5014.ts
-#EXTINF:-1 tvg-name="Great! Mystery" group-title="ENGLISH",Great! Mystery
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1070.ts
-#EXTINF:-1 tvg-name="GREAT! action" group-title="ENGLISH",GREAT! action
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1440.ts
-#EXTINF:-1 tvg-name="Horror Channel UK" group-title="ENGLISH",Horror Channel UK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1353.ts
-#EXTINF:-1 tvg-name="SLY MIX HD" group-title="ENGLISH",SLY MIX HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1584.ts
-#EXTINF:-1 tvg-name="UK: 5 ACTION" group-title="ENGLISH",UK: 5 ACTION
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1347.ts
-#EXTINF:-1 tvg-name="DAVE" group-title="ENGLISH",DAVE
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1432.ts
-#EXTINF:-1 tvg-name="UK: DMAX" group-title="ENGLISH",UK: DMAX
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1344.ts
-#EXTINF:-1 tvg-name="GREAT! romance" group-title="ENGLISH",GREAT! romance
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1431.ts
-#EXTINF:-1 tvg-name="Really" group-title="ENGLISH",Really
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1454.ts
-#EXTINF:-1 tvg-name="UK: LEGEND" group-title="ENGLISH",UK: LEGEND
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1346.ts
-#EXTINF:-1 tvg-name="UK: LEGEND XTRA" group-title="ENGLISH",UK: LEGEND XTRA
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1348.ts
-#EXTINF:-1 tvg-name="TRUE CRIME X" group-title="ENGLISH",TRUE CRIME X
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1345.ts
-#EXTINF:-1 tvg-name="LEGEND XTRA +1" group-title="ENGLISH",LEGEND XTRA +1
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/437.ts
-#EXTINF:-1 tvg-name="Comedy Central US" group-title="ENGLISH",Comedy Central US
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1460.ts
-#EXTINF:-1 tvg-name="LIFETIME HD" group-title="ENGLISH",LIFETIME HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1449.ts
-#EXTINF:-1 tvg-name="VH1 HD" group-title="ENGLISH",VH1 HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5588.ts
-#EXTINF:-1 tvg-name="NOW ROCK" group-title="ENGLISH",NOW ROCK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/496.ts
-#EXTINF:-1 tvg-name="MTV EN" group-title="ENGLISH",MTV EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1446.ts
-#EXTINF:-1 tvg-name="MTV MUSIC" group-title="ENGLISH",MTV MUSIC
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1444.ts
-#EXTINF:-1 tvg-name="EN: AXN" group-title="ENGLISH",EN: AXN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1443.ts
-#EXTINF:-1 tvg-name="MTV Classic" group-title="ENGLISH",MTV Classic
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1451.ts
-#EXTINF:-1 tvg-name="M4 UK" group-title="ENGLISH",M4 UK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1448.ts
-#EXTINF:-1 tvg-name="MTV UK" group-title="ENGLISH",MTV UK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1445.ts
-#EXTINF:-1 tvg-name="UK: MTV HD" group-title="ENGLISH",UK: MTV HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/495.ts
-#EXTINF:-1 tvg-name="MTV US HD" group-title="ENGLISH",MTV US HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1436.ts
-#EXTINF:-1 tvg-name="STAR WORLD FHD" group-title="ENGLISH",STAR WORLD FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1174.ts
-#EXTINF:-1 tvg-name="TLC HD" group-title="ENGLISH",TLC HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1033.ts
-#EXTINF:-1 tvg-name="PEACE TV EN" group-title="ENGLISH",PEACE TV EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/455.ts
-#EXTINF:-1 tvg-name="Islam Channel" group-title="ENGLISH",Islam Channel
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/490.ts
-#EXTINF:-1 tvg-name="PRESS TV HD" group-title="ENGLISH",PRESS TV HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5587.ts
-#EXTINF:-1 tvg-name="EURO NEWS" group-title="ENGLISH",EURO NEWS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/977.ts
-#EXTINF:-1 tvg-name="AL JAZEERA HD" group-title="ENGLISH",AL JAZEERA HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/488.ts
-#EXTINF:-1 tvg-name="CNN HD" group-title="ENGLISH",CNN HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/976.ts
-#EXTINF:-1 tvg-name="BBC NEWS FHD" group-title="ENGLISH",BBC NEWS FHD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/489.ts
-#EXTINF:-1 tvg-name="NDTV 24x7" group-title="ENGLISH",NDTV 24x7
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/487.ts
-#EXTINF:-1 tvg-name="NBC NEWS" group-title="ENGLISH",NBC NEWS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/484.ts
-#EXTINF:-1 tvg-name="FOX NEWS" group-title="ENGLISH",FOX NEWS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1844.ts
-#EXTINF:-1 tvg-name="BLOOMBERG NEWS" group-title="ENGLISH",BLOOMBERG NEWS
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2481.ts
-#EXTINF:-1 tvg-name="CNBC HD" group-title="ENGLISH",CNBC HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2482.ts
-#EXTINF:-1 tvg-name="FRANCE 24 ENG" group-title="ENGLISH",FRANCE 24 ENG
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/477.ts
-#EXTINF:-1 tvg-name="RT NEWS EN" group-title="ENGLISH",RT NEWS EN
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1437.ts
-#EXTINF:-1 tvg-name="TRT WORLD HD" group-title="ENGLISH",TRT WORLD HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/809.ts
-#EXTINF:-1 tvg-name="DW ENGLISH HD" group-title="ENGLISH",DW ENGLISH HD
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4006.ts
-#EXTINF:-1 tvg-name="ABC US" group-title="ENGLISH",ABC US
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3199.ts
-#EXTINF:-1 tvg-name="EN: HGTV" group-title="ENGLISH",EN: HGTV
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3188.ts
-#EXTINF:-1 tvg-name="FOOD Network US" group-title="ENGLISH",FOOD Network US
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1435.ts
-#EXTINF:-1 tvg-name="FOOD NETWORK" group-title="ENGLISH",FOOD NETWORK
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1293.ts
-#EXTINF:-1 tvg-name="Food Network +" group-title="ENGLISH",Food Network +
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/493.ts
 
 
 
@@ -882,6 +612,46 @@ http://149.100.11.235:8080/ATV/index.m3u8
 
 
 #EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+
+#EXTINF:-1 group-title="mytv",翡翠台
+http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+#EXTINF:-1 group-title="mytv",翡翠台
+http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+#EXTINF:-1 group-title="mytv",明珠台
+http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
+#EXTINF:-1 group-title="mytv",TVB Plus
+http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
+#EXTINF:-1 group-title="mytv",無線新聞
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+#EXTINF:-1 group-title="mytv",TVB星河
+http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+#EXTINF:-1 group-title="mytv",華麗翡翠台
+http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+#EXTINF:-1 group-title="mytv",ViuTV
+http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+#EXTINF:-1 group-title="mytv",ViuTVsix
+http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+#EXTINF:-1 group-title="mytv",Now新聞台
+http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+#EXTINF:-1 group-title="mytv",HOY TV
+http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+#EXTINF:-1 group-title="mytv",HOY資訊台
+http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+#EXTINF:-1 group-title="mytv",鳳凰中文
+http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+#EXTINF:-1 group-title="mytv",鳳凰資訊
+http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+#EXTINF:-1 group-title="mytv",鳳凰香港
+http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+#EXTINF:-1 group-title="mytv",澳視澳門
+http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
+#EXTINF:-1 group-title="mytv",澳視衛星
+http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
+#EXTINF:-1 group-title="mytv",澳門蓮花
+http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
+#EXTINF:-1 group-title="mytv",重溫經典
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
@@ -1496,3 +1266,380 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/chann
 
 
 
+
+#########################################
+          USA TV
+#########################################
+
+
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="USA TV",A&E TV
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="USA TV",ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
+#EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA TV",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="USA TV",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="USA TV",AXS TV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="USA TV",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://images.open-epg.com/x364.png" group-title="USA TV",BBC One
+http://193.239.186.231/BBC1/index.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="USA TV",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="USA TV",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="USA TV",Bounce TV
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="USA TV",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="USA TV",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA TV",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="USA TV",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="USA TV",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="USA TV",Crime & Investigation Network
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA TV",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="USA TV",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="USA TV",E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="USA TV",ESPN U
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="USA TV",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="USA TV",FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="USA TV",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="USA TV",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="USA TV",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="USA TV",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="USA TV",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="USA TV",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="USA TV",HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="USA TV",HLN TV
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 tvg-chno="82" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="USA TV",Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="USA TV",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA TV",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="USA TV",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="USA TV",NBA TV
+http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="USA TV",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="USA TV",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="USA TV",Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA TV",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="USA TV",Reelz Channel
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="USA TV",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="USA TV",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="USA TV",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="USA TV",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="USA TV",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="USA TV",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="USA TV",We Tv
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="USA TV",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+
+
+
+#########################################
+          ENGLISH
+#########################################
+
+
+
+#EXTINF:-1 tvg-name="GB NEWS FHD" group-title="ENGLISH",GB NEWS FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/473.ts
+#EXTINF:-1 tvg-name="SLY NEWS FHD" group-title="ENGLISH",SLY NEWS FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/475.ts
+#EXTINF:-1 tvg-name="SlY ARTS FHD" group-title="ENGLISH",SlY ARTS FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1314.ts
+#EXTINF:-1 tvg-name="STAR MOVIES FHD" group-title="ENGLISH",STAR MOVIES FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/474.ts
+#EXTINF:-1 tvg-name="Sly Cinema Select FHD" group-title="ENGLISH",Sly Cinema Select FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/470.ts
+#EXTINF:-1 tvg-name="Sly CINEMA Sci-Fi & Hor FHD" group-title="ENGLISH",Sly CINEMA Sci-Fi & Hor FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/466.ts
+#EXTINF:-1 tvg-name="Sly Cinema Premiere FHD" group-title="ENGLISH",Sly Cinema Premiere FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/465.ts
+#EXTINF:-1 tvg-name="Sly Cinema Thriller FHD" group-title="ENGLISH",Sly Cinema Thriller FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/472.ts
+#EXTINF:-1 tvg-name="Sly Cinema Comedy FHD" group-title="ENGLISH",Sly Cinema Comedy FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/467.ts
+#EXTINF:-1 tvg-name="Sly Cinema Family FHD" group-title="ENGLISH",Sly Cinema Family FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/479.ts
+#EXTINF:-1 tvg-name="Sly Cinema Hits FHD" group-title="ENGLISH",Sly Cinema Hits FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1426.ts
+#EXTINF:-1 tvg-name="Sly Cinema Action FHD" group-title="ENGLISH",Sly Cinema Action FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/471.ts
+#EXTINF:-1 tvg-name="Sly Cinema Drama FHD" group-title="ENGLISH",Sly Cinema Drama FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/469.ts
+#EXTINF:-1 tvg-name="Sly Cinema Modern Great FHD" group-title="ENGLISH",Sly Cinema Modern Great FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/468.ts
+#EXTINF:-1 tvg-name="SLY WITNESS FHD" group-title="ENGLISH",SLY WITNESS FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1173.ts
+#EXTINF:-1 tvg-name="Sly  MAX FHD" group-title="ENGLISH",Sly  MAX FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1433.ts
+#EXTINF:-1 tvg-name="SLY SCI-FI FHD" group-title="ENGLISH",SLY SCI-FI FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4007.ts
+#EXTINF:-1 tvg-name="SLY CRIME FHD" group-title="ENGLISH",SLY CRIME FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1438.ts
+#EXTINF:-1 tvg-name="SLY COMEDY FHD" group-title="ENGLISH",SLY COMEDY FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1434.ts
+#EXTINF:-1 tvg-name="SLY ATLANTIC FHD" group-title="ENGLISH",SLY ATLANTIC FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1342.ts
+#EXTINF:-1 tvg-name="SYFY  US" group-title="ENGLISH",SYFY  US
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1429.ts
+#EXTINF:-1 tvg-name="BBC 1 FHD" group-title="ENGLISH",BBC 1 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/476.ts
+#EXTINF:-1 tvg-name="BBC 2 FHD" group-title="ENGLISH",BBC 2 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/921.ts
+#EXTINF:-1 tvg-name="BBC 3 FHD" group-title="ENGLISH",BBC 3 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1144.ts
+#EXTINF:-1 tvg-name="BBC 4 HD" group-title="ENGLISH",BBC 4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1456.ts
+#EXTINF:-1 tvg-name="BBC ALBA FHD" group-title="ENGLISH",BBC ALBA FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/923.ts
+#EXTINF:-1 tvg-name="BBC PARLAMENT" group-title="ENGLISH",BBC PARLAMENT
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1427.ts
+#EXTINF:-1 tvg-name="CHANNEL 4 FHD" group-title="ENGLISH",CHANNEL 4 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/478.ts
+#EXTINF:-1 tvg-name="CHANNEL 5 FHD" group-title="ENGLISH",CHANNEL 5 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/494.ts
+#EXTINF:-1 tvg-name="ITV 1 FHD" group-title="ENGLISH",ITV 1 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/922.ts
+#EXTINF:-1 tvg-name="ITV 2 FHD" group-title="ENGLISH",ITV 2 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/920.ts
+#EXTINF:-1 tvg-name="ITV 3 FHD" group-title="ENGLISH",ITV 3 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/973.ts
+#EXTINF:-1 tvg-name="ITV 4 FHD" group-title="ENGLISH",ITV 4 FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/974.ts
+#EXTINF:-1 tvg-name="STV HD" group-title="ENGLISH",STV HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1176.ts
+#EXTINF:-1 tvg-name="ITV 1 +1" group-title="ENGLISH",ITV 1 +1
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5015.ts
+#EXTINF:-1 tvg-name="ITV 2 +1" group-title="ENGLISH",ITV 2 +1
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4008.ts
+#EXTINF:-1 tvg-name="Dmax +1" group-title="ENGLISH",Dmax +1
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1313.ts
+#EXTINF:-1 tvg-name="IE: TG 4 HD" group-title="ENGLISH",IE: TG 4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1175.ts
+#EXTINF:-1 tvg-name="IE: RTE 1 HD" group-title="ENGLISH",IE: RTE 1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/975.ts
+#EXTINF:-1 tvg-name="IE: RTE 2 HD" group-title="ENGLISH",IE: RTE 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/931.ts
+#EXTINF:-1 tvg-name="IE: S4C HD" group-title="ENGLISH",IE: S4C HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1330.ts
+#EXTINF:-1 tvg-name="IE: OIR TV" group-title="ENGLISH",IE: OIR TV
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5013.ts
+#EXTINF:-1 tvg-name="IE: UTV HD" group-title="ENGLISH",IE: UTV HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1585.ts
+#EXTINF:-1 tvg-name="RTE NEWS" group-title="ENGLISH",RTE NEWS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1441.ts
+#EXTINF:-1 tvg-name="IE: Sly News Ireland" group-title="ENGLISH",IE: Sly News Ireland
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5010.ts
+#EXTINF:-1 tvg-name="UK: ETV 4" group-title="ENGLISH",UK: ETV 4
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1350.ts
+#EXTINF:-1 tvg-name="TNT HD" group-title="ENGLISH",TNT HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1343.ts
+#EXTINF:-1 tvg-name="Quest HD" group-title="ENGLISH",Quest HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1439.ts
+#EXTINF:-1 tvg-name="CHALLENGE TV" group-title="ENGLISH",CHALLENGE TV
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1349.ts
+#EXTINF:-1 tvg-name="Comedy Central UK" group-title="ENGLISH",Comedy Central UK
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/463.ts
+#EXTINF:-1 tvg-name="STAR ACTION FHD" group-title="ENGLISH",STAR ACTION FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1351.ts
+#EXTINF:-1 tvg-name="UK: Fashion TV" group-title="ENGLISH",UK: Fashion TV
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1352.ts
+#EXTINF:-1 tvg-name="Sly History HD" group-title="ENGLISH",Sly History HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1450.ts
+#EXTINF:-1 tvg-name="Sly History 2 HD" group-title="ENGLISH",Sly History 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1452.ts
+#EXTINF:-1 tvg-name="Sly Nature FHD" group-title="ENGLISH",Sly Nature FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1458.ts
+#EXTINF:-1 tvg-name="Discovery Family FHD" group-title="ENGLISH",Discovery Family FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1457.ts
+#EXTINF:-1 tvg-name="Discovery HD" group-title="ENGLISH",Discovery HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/482.ts
+#EXTINF:-1 tvg-name="Animal planet" group-title="ENGLISH",Animal planet
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/485.ts
+#EXTINF:-1 tvg-name="National Geographic" group-title="ENGLISH",National Geographic
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/483.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="ENGLISH",NAT GEO WILD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/486.ts
+#EXTINF:-1 tvg-name="Discovery Family" group-title="ENGLISH",Discovery Family
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1459.ts
+#EXTINF:-1 tvg-name="Travel channel HD" group-title="ENGLISH",Travel channel HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1312.ts
+#EXTINF:-1 tvg-name="Discovery Science" group-title="ENGLISH",Discovery Science
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1638.ts
+#EXTINF:-1 tvg-name="Movies Now HD" group-title="ENGLISH",Movies Now HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1428.ts
+#EXTINF:-1 tvg-name="STAR MOVIES HD" group-title="ENGLISH",STAR MOVIES HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1169.ts
+#EXTINF:-1 tvg-name="Star movies Select" group-title="ENGLISH",Star movies Select
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/745.ts
+#EXTINF:-1 tvg-name="HBO HD" group-title="ENGLISH",HBO HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/947.ts
+#EXTINF:-1 tvg-name="MNX HD" group-title="ENGLISH",MNX HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/746.ts
+#EXTINF:-1 tvg-name="Colors infinity HD" group-title="ENGLISH",Colors infinity HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/480.ts
+#EXTINF:-1 tvg-name="sony pix FHD" group-title="ENGLISH",sony pix FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1062.ts
+#EXTINF:-1 tvg-name="AND FLIX HD" group-title="ENGLISH",AND FLIX HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/744.ts
+#EXTINF:-1 tvg-name="Zee Cafe HD" group-title="ENGLISH",Zee Cafe HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1322.ts
+#EXTINF:-1 tvg-name="& PRIVE HD" group-title="ENGLISH",& PRIVE HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/481.ts
+#EXTINF:-1 tvg-name="MN+ HD" group-title="ENGLISH",MN+ HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1170.ts
+#EXTINF:-1 tvg-name="ROMEDY NOW HD" group-title="ENGLISH",ROMEDY NOW HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1447.ts
+#EXTINF:-1 tvg-name="AMC HD" group-title="ENGLISH",AMC HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1442.ts
+#EXTINF:-1 tvg-name="UK: E4 HD" group-title="ENGLISH",UK: E4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1338.ts
+#EXTINF:-1 tvg-name="FILM 4 HD" group-title="ENGLISH",FILM 4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1455.ts
+#EXTINF:-1 tvg-name="UK: PICK TV HD" group-title="ENGLISH",UK: PICK TV HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1058.ts
+#EXTINF:-1 tvg-name="UK: 5 usa HD" group-title="ENGLISH",UK: 5 usa HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1341.ts
+#EXTINF:-1 tvg-name="UK: 5 Star HD" group-title="ENGLISH",UK: 5 Star HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1340.ts
+#EXTINF:-1 tvg-name="GOLD UK HD" group-title="ENGLISH",GOLD UK HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1453.ts
+#EXTINF:-1 tvg-name="UK: 4 seven" group-title="ENGLISH",UK: 4 seven
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1339.ts
+#EXTINF:-1 tvg-name="F4 HD" group-title="ENGLISH",F4 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5014.ts
+#EXTINF:-1 tvg-name="Great! Mystery" group-title="ENGLISH",Great! Mystery
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1070.ts
+#EXTINF:-1 tvg-name="GREAT! action" group-title="ENGLISH",GREAT! action
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1440.ts
+#EXTINF:-1 tvg-name="Horror Channel UK" group-title="ENGLISH",Horror Channel UK
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1353.ts
+#EXTINF:-1 tvg-name="SLY MIX HD" group-title="ENGLISH",SLY MIX HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1584.ts
+#EXTINF:-1 tvg-name="UK: 5 ACTION" group-title="ENGLISH",UK: 5 ACTION
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1347.ts
+#EXTINF:-1 tvg-name="DAVE" group-title="ENGLISH",DAVE
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1432.ts
+#EXTINF:-1 tvg-name="UK: DMAX" group-title="ENGLISH",UK: DMAX
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1344.ts
+#EXTINF:-1 tvg-name="GREAT! romance" group-title="ENGLISH",GREAT! romance
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1431.ts
+#EXTINF:-1 tvg-name="Really" group-title="ENGLISH",Really
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1454.ts
+#EXTINF:-1 tvg-name="UK: LEGEND" group-title="ENGLISH",UK: LEGEND
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1346.ts
+#EXTINF:-1 tvg-name="UK: LEGEND XTRA" group-title="ENGLISH",UK: LEGEND XTRA
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1348.ts
+#EXTINF:-1 tvg-name="TRUE CRIME X" group-title="ENGLISH",TRUE CRIME X
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1345.ts
+#EXTINF:-1 tvg-name="LEGEND XTRA +1" group-title="ENGLISH",LEGEND XTRA +1
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/437.ts
+#EXTINF:-1 tvg-name="Comedy Central US" group-title="ENGLISH",Comedy Central US
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1460.ts
+#EXTINF:-1 tvg-name="LIFETIME HD" group-title="ENGLISH",LIFETIME HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1449.ts
+#EXTINF:-1 tvg-name="VH1 HD" group-title="ENGLISH",VH1 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5588.ts
+#EXTINF:-1 tvg-name="NOW ROCK" group-title="ENGLISH",NOW ROCK
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/496.ts
+#EXTINF:-1 tvg-name="MTV EN" group-title="ENGLISH",MTV EN
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1446.ts
+#EXTINF:-1 tvg-name="MTV MUSIC" group-title="ENGLISH",MTV MUSIC
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1444.ts
+#EXTINF:-1 tvg-name="EN: AXN" group-title="ENGLISH",EN: AXN
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1443.ts
+#EXTINF:-1 tvg-name="MTV Classic" group-title="ENGLISH",MTV Classic
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1451.ts
+#EXTINF:-1 tvg-name="M4 UK" group-title="ENGLISH",M4 UK
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1448.ts
+#EXTINF:-1 tvg-name="MTV UK" group-title="ENGLISH",MTV UK
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1445.ts
+#EXTINF:-1 tvg-name="UK: MTV HD" group-title="ENGLISH",UK: MTV HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/495.ts
+#EXTINF:-1 tvg-name="MTV US HD" group-title="ENGLISH",MTV US HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1436.ts
+#EXTINF:-1 tvg-name="STAR WORLD FHD" group-title="ENGLISH",STAR WORLD FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1174.ts
+#EXTINF:-1 tvg-name="TLC HD" group-title="ENGLISH",TLC HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1033.ts
+#EXTINF:-1 tvg-name="PEACE TV EN" group-title="ENGLISH",PEACE TV EN
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/455.ts
+#EXTINF:-1 tvg-name="Islam Channel" group-title="ENGLISH",Islam Channel
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/490.ts
+#EXTINF:-1 tvg-name="PRESS TV HD" group-title="ENGLISH",PRESS TV HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5587.ts
+#EXTINF:-1 tvg-name="EURO NEWS" group-title="ENGLISH",EURO NEWS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/977.ts
+#EXTINF:-1 tvg-name="AL JAZEERA HD" group-title="ENGLISH",AL JAZEERA HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/488.ts
+#EXTINF:-1 tvg-name="CNN HD" group-title="ENGLISH",CNN HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/976.ts
+#EXTINF:-1 tvg-name="BBC NEWS FHD" group-title="ENGLISH",BBC NEWS FHD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/489.ts
+#EXTINF:-1 tvg-name="NDTV 24x7" group-title="ENGLISH",NDTV 24x7
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/487.ts
+#EXTINF:-1 tvg-name="NBC NEWS" group-title="ENGLISH",NBC NEWS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/484.ts
+#EXTINF:-1 tvg-name="FOX NEWS" group-title="ENGLISH",FOX NEWS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1844.ts
+#EXTINF:-1 tvg-name="BLOOMBERG NEWS" group-title="ENGLISH",BLOOMBERG NEWS
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2481.ts
+#EXTINF:-1 tvg-name="CNBC HD" group-title="ENGLISH",CNBC HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2482.ts
+#EXTINF:-1 tvg-name="FRANCE 24 ENG" group-title="ENGLISH",FRANCE 24 ENG
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/477.ts
+#EXTINF:-1 tvg-name="RT NEWS EN" group-title="ENGLISH",RT NEWS EN
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1437.ts
+#EXTINF:-1 tvg-name="TRT WORLD HD" group-title="ENGLISH",TRT WORLD HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/809.ts
+#EXTINF:-1 tvg-name="DW ENGLISH HD" group-title="ENGLISH",DW ENGLISH HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4006.ts
+#EXTINF:-1 tvg-name="ABC US" group-title="ENGLISH",ABC US
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3199.ts
+#EXTINF:-1 tvg-name="EN: HGTV" group-title="ENGLISH",EN: HGTV
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/3188.ts
+#EXTINF:-1 tvg-name="FOOD Network US" group-title="ENGLISH",FOOD Network US
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1435.ts
+#EXTINF:-1 tvg-name="FOOD NETWORK" group-title="ENGLISH",FOOD NETWORK
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1293.ts
+#EXTINF:-1 tvg-name="Food Network +" group-title="ENGLISH",Food Network +
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/493.ts
