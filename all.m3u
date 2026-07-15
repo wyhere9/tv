@@ -49,7 +49,6 @@ https://livecdn9.ptsplus.tv/pts-youth-B/3.m3u8
 https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 
 
-
 #EXTINF:-1 group-title="台灣",TVBS新聞台
 http://74.91.26.218:82/live/tvbsxw.m3u8
 #EXTINF:-1 group-title="台灣",博斯高球1
@@ -74,9 +73,6 @@ http://74.91.26.218:82/live/typd.m3u8
 #EXTINF:-1 group-title="台灣",天映經典
 http://74.91.26.218:82/live/tyjd.m3u8
 
-
-
-
 #EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/民视新闻台.png",民視新聞(211)
 http://211.72.174.95:8117/0.ts
 #EXTINF:-1 group-title="台灣" tvg-logo="https://raw.githubusercontent.com/cyh92/live/refs/heads/main/logo/中视.png",中視(211)
@@ -91,8 +87,6 @@ http://211.72.174.95:8115/0.ts
 http://211.72.174.95:8112/0.ts
 #EXTINF:-1 group-title="台灣",東森新聞(211)
 http://211.72.174.95:8138/0.ts
-
-
 
 #EXTINF:-1 group-title="台灣",CINEMAX(125)
 http://125.227.210.55:1001/VideoInput/play.ts
@@ -219,13 +213,6 @@ http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 group-title="台灣",博斯運動I(125)
 http://125.227.210.55:8173/VideoInput/play.ts
 
-
-
-#EXTINF:-1 group-title="台灣",澳門蓮花
-http://r.jdshipin.com/5DWJk
-
-
-
 #EXTINF:-1 group-title="台灣",華藏衛視
 https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
 #EXTINF:-1 group-title="台灣",唯心
@@ -233,23 +220,17 @@ https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w117
 #EXTINF:-1 group-title="台灣",唯心
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-logo="https://11.112114.xyz/logo/Al Jazeera English.png" group-title="台灣",Al Jazeera English
 https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8 
-
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://11.112114.xyz/logo/BBC News.png" group-title="台灣",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8 
-
 #EXTINF:-1 tvg-id="CNN US" tvg-name="CNN US" tvg-logo="https://11.112114.xyz/logo/CNN US.png" group-title="台灣",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8 
-
-
 #EXTINF:-1 group-title="台灣" tvg-logo="https://play-lh.googleusercontent.com/eu08SiquILK_8LI_V7yxP_T-mxcV2lDzCOs5xKOnRX0MJ7gfi5N51zErYvVkI1pWZg",NHK World Japan
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 
 #EXTINF:-1 group-title="台灣",灌篮高手
 https://live.ottiptv.cc/yy/1382735626
-
 
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="台灣",民視第一台
 http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -617,42 +598,20 @@ https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/ey
              體育世界
 #########################################
 
-#EXTINF:-1 group-title="體育世界",Eurosport 1
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/141/index.m3u8
-#EXTINF:-1 group-title="體育世界",Eurosport 2 HD orig
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/5076/index.m3u8
 
-#EXTINF:-1 group-title="體育世界",Setanta Sports 1 HD
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/271/index.m3u8
-#EXTINF:-1 group-title="體育世界",Setanta Sports 2 HD
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/270/index.m3u8
-#EXTINF:-1 group-title="體育世界",Viju+ Sport HD
-http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2007/index.m3u8
-
-#EXTINF:-1 tvg-id="stream-96126f97-9d3c-42ad-82fe-a605e6a8bdaa" tvg-name="Elta体育1台" group-title="體育世界",Elta体育1台
-http://192.129.226.68:5678/live/stream-96126f97-9d3c-42ad-82fe-a605e6a8bdaa/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-#EXTINF:-1 tvg-id="stream-91f5dcd5-0e6c-4560-877e-cd6b2ae0d3c2" tvg-name="Elta體育2台" group-title="體育世界",Elta體育2台
-http://192.129.226.68:5678/live/stream-91f5dcd5-0e6c-4560-877e-cd6b2ae0d3c2/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-#EXTINF:-1 tvg-id="stream-071f4846-c879-4bf5-8c69-d8b2d15d8893" tvg-name="Elta體育3台" group-title="體育世界",Elta體育3台
-http://192.129.226.68:5678/live/stream-071f4846-c879-4bf5-8c69-d8b2d15d8893/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
-
-
+#EXTINF:-1 tvg-name="MLB NETWORK HD" tvg-logo="https://imgur.com/R5izfeU" group-title="體育世界",MLB NETWORK HD
+http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/206108
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SporTV HD" tvg-logo="http://cdn4k.net/logos/sportv.png" group-title="體育世界",SporTV HD
+http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/34875
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://cdn4k.net/logos/sportv2.png" group-title="體育世界",SporTV 2 HD
+http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/6480
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://cdn4k.net/logos/sportv3.png" group-title="體育世界",SporTV 3 HD
+http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/6478
+#EXTINF:-1 tvg-id="SPORTV 4" tvg-name="SporTV 4 HD" tvg-logo="http://cdn4k.net/logos/SPORTV4.png" group-title="體育世界",SporTV 4 HD
+http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/253831
 
 #EXTINF:-1 group-title="體育世界" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5
 http://69.30.245.50/live/cctv5.m3u8
-
-#EXTINF:-1 group-title="體育世界",TSN 1 HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3Ni50cw==
-#EXTINF:-1 group-title="體育世界",TSN 2 HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3NS50cw==
-#EXTINF:-1 group-title="體育世界",TSN 3 HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3NC50cw==
-#EXTINF:-1 group-title="體育世界",TSN 4 HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3My50cw==
-#EXTINF:-1 group-title="體育世界",TSN 5 HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3Mi50cw==
-
-
 
 #EXTINF:-1 group-title="體育世界",ASTRO Football
 https://tv.media4u.top:443/live/media4u/media4u/995128
@@ -702,8 +661,31 @@ https://tv.media4u.top:443/live/media4u/media4u/147570
 https://tv.media4u.top:443/live/media4u/media4u/648805
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK HD" tvg-logo="https://imgur.com/R5izfeU" group-title="體育世界",MLB NETWORK HD
-http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/206108
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Fussbal TV 1 FHD DE" tvg-logo="" group-title="體育世界",Fussbal TV 1 FHD DE
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/174175
+#EXTINF:-1 tvg-id="" tvg-name="Fussbal TV 2 FHD DE" tvg-logo="" group-title="體育世界",Fussbal TV 2 FHD DE
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/174177
+#EXTINF:-1 tvg-id="" tvg-name="Fussbal TV 3 FHD DE" tvg-logo="" group-title="體育世界",Fussbal TV 3 FHD DE
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/174179
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One UK" tvg-logo="https://picon-13398.kxcdn.com/bbcone.jpg" group-title="體育世界",BBC One UK
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/3580
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX Sports 1 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports1hd.jpg" group-title="體育世界",FOX Sports 1 HD US
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9031
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="FOX Sports 2 HD US" tvg-logo="https://picon-13398.kxcdn.com/foxsports2hd.jpg" group-title="體育世界",FOX Sports 2 HD US
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9030
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn1ca.jpg" group-title="體育世界",TSN 1 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9032
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn2ca.jpg" group-title="體育世界",TSN 2 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9033
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn3ca.jpg" group-title="體育世界",TSN 3 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9034
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn4ca.jpg" group-title="體育世界",TSN 4 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9035
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5 HD CA" tvg-logo="https://picon-13398.kxcdn.com/tsn5ca.jpg" group-title="體育世界",TSN 5 HD CA
+http://172.110.221.217:80/kwFkARezs6hf9345/xOY5bX8gST8P9570/9036	
 
 
 
